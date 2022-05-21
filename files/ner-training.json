@@ -1,0 +1,7012 @@
+[
+  {
+    "text": "2 libras de camarones",
+    "id": 200,
+    "label": [
+      {
+        "start": 0,
+        "end": 1,
+        "text": "2",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 2,
+        "end": 8,
+        "text": "libras",
+        "labels": [
+          "MEASURE"
+        ]
+      },
+      {
+        "start": 12,
+        "end": 21,
+        "text": "camarones",
+        "labels": [
+          "FOOD"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 200,
+    "created_at": "2022-05-21T21:03:52.879868Z",
+    "updated_at": "2022-05-21T21:03:52.879945Z",
+    "lead_time": 5.174
+  },
+  {
+    "text": "1 taza de vegetales cocinados",
+    "id": 199,
+    "label": [
+      {
+        "start": 0,
+        "end": 1,
+        "text": "1",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 2,
+        "end": 6,
+        "text": "taza",
+        "labels": [
+          "MEASURE"
+        ]
+      },
+      {
+        "start": 10,
+        "end": 19,
+        "text": "vegetales",
+        "labels": [
+          "FOOD"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 199,
+    "created_at": "2022-05-21T21:03:45.103048Z",
+    "updated_at": "2022-05-21T21:03:45.103084Z",
+    "lead_time": 4.152
+  },
+  {
+    "text": "1 cucharadita de sal",
+    "id": 198,
+    "label": [
+      {
+        "start": 0,
+        "end": 1,
+        "text": "1",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 2,
+        "end": 13,
+        "text": "cucharadita",
+        "labels": [
+          "MEASURE"
+        ]
+      },
+      {
+        "start": 17,
+        "end": 20,
+        "text": "sal",
+        "labels": [
+          "FOOD"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 198,
+    "created_at": "2022-05-21T21:03:39.992693Z",
+    "updated_at": "2022-05-21T21:03:39.992794Z",
+    "lead_time": 3.439
+  },
+  {
+    "text": "2 tazas de leche",
+    "id": 197,
+    "label": [
+      {
+        "start": 0,
+        "end": 1,
+        "text": "2",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 2,
+        "end": 7,
+        "text": "tazas",
+        "labels": [
+          "MEASURE"
+        ]
+      },
+      {
+        "start": 11,
+        "end": 16,
+        "text": "leche",
+        "labels": [
+          "FOOD"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 197,
+    "created_at": "2022-05-21T21:03:34.547141Z",
+    "updated_at": "2022-05-21T21:03:34.547209Z",
+    "lead_time": 12.32
+  },
+  {
+    "text": "4 cucharadas de harina",
+    "id": 196,
+    "label": [
+      {
+        "start": 0,
+        "end": 1,
+        "text": "4",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 2,
+        "end": 12,
+        "text": "cucharadas",
+        "labels": [
+          "MEASURE"
+        ]
+      },
+      {
+        "start": 16,
+        "end": 22,
+        "text": "harina",
+        "labels": [
+          "FOOD"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 196,
+    "created_at": "2022-05-21T21:03:20.313001Z",
+    "updated_at": "2022-05-21T21:03:20.313128Z",
+    "lead_time": 3.786
+  },
+  {
+    "text": "3 cucharadas de mantequilla",
+    "id": 195,
+    "label": [
+      {
+        "start": 0,
+        "end": 1,
+        "text": "3",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 2,
+        "end": 12,
+        "text": "cucharadas",
+        "labels": [
+          "MEASURE"
+        ]
+      },
+      {
+        "start": 16,
+        "end": 27,
+        "text": "mantequilla",
+        "labels": [
+          "FOOD"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 195,
+    "created_at": "2022-05-21T21:03:14.519788Z",
+    "updated_at": "2022-05-21T21:03:14.519833Z",
+    "lead_time": 4.363
+  },
+  {
+    "text": "1 taza de pulpa o jugo de tomate",
+    "id": 194,
+    "label": [
+      {
+        "start": 0,
+        "end": 1,
+        "text": "1",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 17,
+        "end": 32,
+        "text": " jugo de tomate",
+        "labels": [
+          "FOOD"
+        ]
+      },
+      {
+        "start": 2,
+        "end": 6,
+        "text": "taza",
+        "labels": [
+          "MEASURE"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 194,
+    "created_at": "2022-05-21T21:03:09.224530Z",
+    "updated_at": "2022-05-21T21:03:09.224572Z",
+    "lead_time": 8.209
+  },
+  {
+    "text": "0 Sal y pimienta al gusto",
+    "id": 193,
+    "annotator": 2,
+    "annotation_id": 193,
+    "created_at": "2022-05-21T21:02:49.828264Z",
+    "updated_at": "2022-05-21T21:02:49.828289Z",
+    "lead_time": 13.745
+  },
+  {
+    "text": "2 yemas de huevo",
+    "id": 192,
+    "label": [
+      {
+        "start": 0,
+        "end": 1,
+        "text": "2",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 2,
+        "end": 7,
+        "text": "yemas",
+        "labels": [
+          "MEASURE"
+        ]
+      },
+      {
+        "start": 11,
+        "end": 16,
+        "text": "huevo",
+        "labels": [
+          "FOOD"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 192,
+    "created_at": "2022-05-21T21:02:35.020647Z",
+    "updated_at": "2022-05-21T21:02:35.020736Z",
+    "lead_time": 1.24
+  },
+  {
+    "text": "1 taza de leche",
+    "id": 191,
+    "label": [
+      {
+        "start": 0,
+        "end": 1,
+        "text": "1",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 2,
+        "end": 6,
+        "text": "taza",
+        "labels": [
+          "MEASURE"
+        ]
+      },
+      {
+        "start": 10,
+        "end": 15,
+        "text": "leche",
+        "labels": [
+          "FOOD"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 191,
+    "created_at": "2022-05-21T21:02:24.589409Z",
+    "updated_at": "2022-05-21T21:02:24.589531Z",
+    "lead_time": 3.746
+  },
+  {
+    "text": "1 cucharada de cebolla",
+    "id": 190,
+    "label": [
+      {
+        "start": 0,
+        "end": 1,
+        "text": "1",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 2,
+        "end": 11,
+        "text": "cucharada",
+        "labels": [
+          "MEASURE"
+        ]
+      },
+      {
+        "start": 15,
+        "end": 22,
+        "text": "cebolla",
+        "labels": [
+          "FOOD"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 190,
+    "created_at": "2022-05-21T21:02:18.793344Z",
+    "updated_at": "2022-05-21T21:02:18.793474Z",
+    "lead_time": 3.536
+  },
+  {
+    "text": "1 cucharada de grasa (aceite o manteca)",
+    "id": 189,
+    "label": [
+      {
+        "start": 0,
+        "end": 1,
+        "text": "1",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 2,
+        "end": 11,
+        "text": "cucharada",
+        "labels": [
+          "MEASURE"
+        ]
+      },
+      {
+        "start": 22,
+        "end": 28,
+        "text": "aceite",
+        "labels": [
+          "FOOD"
+        ]
+      },
+      {
+        "start": 31,
+        "end": 38,
+        "text": "manteca",
+        "labels": [
+          "FOOD"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 189,
+    "created_at": "2022-05-21T21:02:14.041292Z",
+    "updated_at": "2022-05-21T21:02:14.041321Z",
+    "lead_time": 10.542
+  },
+  {
+    "text": "1 cucharada de azúcar",
+    "id": 188,
+    "label": [
+      {
+        "start": 0,
+        "end": 1,
+        "text": "1",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 2,
+        "end": 11,
+        "text": "cucharada",
+        "labels": [
+          "MEASURE"
+        ]
+      },
+      {
+        "start": 15,
+        "end": 21,
+        "text": "azúcar",
+        "labels": [
+          "FOOD"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 188,
+    "created_at": "2022-05-21T21:02:02.258747Z",
+    "updated_at": "2022-05-21T21:02:02.258778Z",
+    "lead_time": 3.291
+  },
+  {
+    "text": "1 cucharadita de sal",
+    "id": 187,
+    "label": [
+      {
+        "start": 0,
+        "end": 1,
+        "text": "1",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 17,
+        "end": 20,
+        "text": "sal",
+        "labels": [
+          "FOOD"
+        ]
+      },
+      {
+        "start": 2,
+        "end": 13,
+        "text": "cucharadita",
+        "labels": [
+          "MEASURE"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 187,
+    "created_at": "2022-05-21T21:01:57.817368Z",
+    "updated_at": "2022-05-21T21:01:57.817402Z",
+    "lead_time": 3.633
+  },
+  {
+    "text": "4 tazas de agua",
+    "id": 186,
+    "label": [
+      {
+        "start": 0,
+        "end": 1,
+        "text": "4",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 11,
+        "end": 15,
+        "text": "agua",
+        "labels": [
+          "FOOD"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 186,
+    "created_at": "2022-05-21T21:01:52.520835Z",
+    "updated_at": "2022-05-21T21:01:52.520882Z",
+    "lead_time": 3.896
+  },
+  {
+    "text": "3 mazorcas de maíz tierno",
+    "id": 185,
+    "label": [
+      {
+        "start": 0,
+        "end": 1,
+        "text": "3",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 2,
+        "end": 10,
+        "text": "mazorcas",
+        "labels": [
+          "MEASURE"
+        ]
+      },
+      {
+        "start": 14,
+        "end": 18,
+        "text": "maíz",
+        "labels": [
+          "FOOD"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 185,
+    "created_at": "2022-05-21T21:01:47.359249Z",
+    "updated_at": "2022-05-21T21:01:47.359293Z",
+    "lead_time": 5.8
+  },
+  {
+    "text": "⅛ de cucharadita de pimienta o más, al gusto",
+    "id": 184,
+    "label": [
+      {
+        "start": 0,
+        "end": 1,
+        "text": "⅛",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 5,
+        "end": 16,
+        "text": "cucharadita",
+        "labels": [
+          "MEASURE"
+        ]
+      },
+      {
+        "start": 20,
+        "end": 28,
+        "text": "pimienta",
+        "labels": [
+          "FOOD"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 184,
+    "created_at": "2022-05-21T21:01:40.500574Z",
+    "updated_at": "2022-05-21T21:01:40.500647Z",
+    "lead_time": 4.135
+  },
+  {
+    "text": "3 cucharaditas de sal, aproximadamente",
+    "id": 183,
+    "label": [
+      {
+        "start": 0,
+        "end": 1,
+        "text": "3",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 2,
+        "end": 14,
+        "text": "cucharaditas",
+        "labels": [
+          "MEASURE"
+        ]
+      },
+      {
+        "start": 18,
+        "end": 21,
+        "text": "sal",
+        "labels": [
+          "FOOD"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 183,
+    "created_at": "2022-05-21T21:01:34.936346Z",
+    "updated_at": "2022-05-21T21:01:34.936390Z",
+    "lead_time": 5.334
+  },
+  {
+    "text": "5 cucharaditas de azúcar, aproximadamente",
+    "id": 182,
+    "label": [
+      {
+        "start": 0,
+        "end": 1,
+        "text": "5",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 2,
+        "end": 14,
+        "text": "cucharaditas",
+        "labels": [
+          "MEASURE"
+        ]
+      },
+      {
+        "start": 18,
+        "end": 24,
+        "text": "azúcar",
+        "labels": [
+          "FOOD"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 182,
+    "created_at": "2022-05-21T21:01:28.549299Z",
+    "updated_at": "2022-05-21T21:01:28.549382Z",
+    "lead_time": 4.433
+  },
+  {
+    "text": "1 cucharada de mantequilla, aceite o manteca",
+    "id": 181,
+    "label": [
+      {
+        "start": 0,
+        "end": 1,
+        "text": "1",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 2,
+        "end": 11,
+        "text": "cucharada",
+        "labels": [
+          "MEASURE"
+        ]
+      },
+      {
+        "start": 15,
+        "end": 26,
+        "text": "mantequilla",
+        "labels": [
+          "FOOD"
+        ]
+      },
+      {
+        "start": 28,
+        "end": 34,
+        "text": "aceite",
+        "labels": [
+          "FOOD"
+        ]
+      },
+      {
+        "start": 37,
+        "end": 44,
+        "text": "manteca",
+        "labels": [
+          "FOOD"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 181,
+    "created_at": "2022-05-21T21:01:22.676480Z",
+    "updated_at": "2022-05-21T21:01:22.676527Z",
+    "lead_time": 5.689
+  },
+  {
+    "text": "2 cebollas chicas o 1 grande",
+    "id": 180,
+    "label": [
+      {
+        "start": 0,
+        "end": 1,
+        "text": "2",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 2,
+        "end": 10,
+        "text": "cebollas",
+        "labels": [
+          "FOOD"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 180,
+    "created_at": "2022-05-21T21:01:15.786905Z",
+    "updated_at": "2022-05-21T21:01:15.786969Z",
+    "lead_time": 8.136
+  },
+  {
+    "text": "1½ libras de tomates maduros",
+    "id": 179,
+    "label": [
+      {
+        "start": 0,
+        "end": 2,
+        "text": "1½",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 3,
+        "end": 9,
+        "text": "libras",
+        "labels": [
+          "MEASURE"
+        ]
+      },
+      {
+        "start": 13,
+        "end": 20,
+        "text": "tomates",
+        "labels": [
+          "FOOD"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 179,
+    "created_at": "2022-05-21T21:01:06.743868Z",
+    "updated_at": "2022-05-21T21:01:06.743907Z",
+    "lead_time": 5.824
+  },
+  {
+    "text": "2 tazas de agua de las papas",
+    "id": 178,
+    "label": [
+      {
+        "start": 0,
+        "end": 1,
+        "text": "2",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 2,
+        "end": 7,
+        "text": "tazas",
+        "labels": [
+          "MEASURE"
+        ]
+      },
+      {
+        "start": 11,
+        "end": 15,
+        "text": "agua",
+        "labels": [
+          "FOOD"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 178,
+    "created_at": "2022-05-21T21:01:00.059832Z",
+    "updated_at": "2022-05-21T21:01:00.059997Z",
+    "lead_time": 4.968
+  },
+  {
+    "text": "1 libra de papas",
+    "id": 177,
+    "label": [
+      {
+        "start": 0,
+        "end": 1,
+        "text": "1",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 2,
+        "end": 7,
+        "text": "libra",
+        "labels": [
+          "MEASURE"
+        ]
+      },
+      {
+        "start": 11,
+        "end": 16,
+        "text": "papas",
+        "labels": [
+          "FOOD"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 177,
+    "created_at": "2022-05-21T21:00:53.502248Z",
+    "updated_at": "2022-05-21T21:00:53.502282Z",
+    "lead_time": 4.228
+  },
+  {
+    "text": "½ cucharadita de zumo de limón o 1 cucharada de vino (seco o blanco)",
+    "id": 176,
+    "label": [
+      {
+        "start": 0,
+        "end": 1,
+        "text": "½",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 2,
+        "end": 13,
+        "text": "cucharadita",
+        "labels": [
+          "MEASURE"
+        ]
+      },
+      {
+        "start": 17,
+        "end": 30,
+        "text": "zumo de limón",
+        "labels": [
+          "FOOD"
+        ]
+      },
+      {
+        "start": 33,
+        "end": 34,
+        "text": "1",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 35,
+        "end": 44,
+        "text": "cucharada",
+        "labels": [
+          "MEASURE"
+        ]
+      },
+      {
+        "start": 48,
+        "end": 52,
+        "text": "vino",
+        "labels": [
+          "FOOD"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 176,
+    "created_at": "2022-05-21T21:00:48.223219Z",
+    "updated_at": "2022-05-21T21:00:48.223248Z",
+    "lead_time": 13.562
+  },
+  {
+    "text": "⅛ de cucharadita de orégano",
+    "id": 175,
+    "label": [
+      {
+        "start": 0,
+        "end": 1,
+        "text": "⅛",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 5,
+        "end": 16,
+        "text": "cucharadita",
+        "labels": [
+          "MEASURE"
+        ]
+      },
+      {
+        "start": 20,
+        "end": 27,
+        "text": "orégano",
+        "labels": [
+          "FOOD"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 175,
+    "created_at": "2022-05-21T21:00:33.479828Z",
+    "updated_at": "2022-05-21T21:00:33.479869Z",
+    "lead_time": 3.928
+  },
+  {
+    "text": "⅛ de cucharadita de comino",
+    "id": 174,
+    "label": [
+      {
+        "start": 0,
+        "end": 1,
+        "text": "⅛",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 5,
+        "end": 16,
+        "text": "cucharadita",
+        "labels": [
+          "MEASURE"
+        ]
+      },
+      {
+        "start": 20,
+        "end": 26,
+        "text": "comino",
+        "labels": [
+          "FOOD"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 174,
+    "created_at": "2022-05-21T21:00:28.267809Z",
+    "updated_at": "2022-05-21T21:00:28.267838Z",
+    "lead_time": 5.702
+  },
+  {
+    "text": "⅛ de cucharadita de pimienta",
+    "id": 173,
+    "label": [
+      {
+        "start": 0,
+        "end": 1,
+        "text": "⅛",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 5,
+        "end": 16,
+        "text": "cucharadita",
+        "labels": [
+          "MEASURE"
+        ]
+      },
+      {
+        "start": 20,
+        "end": 28,
+        "text": "pimienta",
+        "labels": [
+          "FOOD"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 173,
+    "created_at": "2022-05-21T21:00:20.365540Z",
+    "updated_at": "2022-05-21T21:00:20.365641Z",
+    "lead_time": 4.362
+  },
+  {
+    "text": "1 hoja de laurel",
+    "id": 172,
+    "label": [
+      {
+        "start": 0,
+        "end": 1,
+        "text": "1",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 2,
+        "end": 6,
+        "text": "hoja",
+        "labels": [
+          "MEASURE"
+        ]
+      },
+      {
+        "start": 10,
+        "end": 16,
+        "text": "laurel",
+        "labels": [
+          "FOOD"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 172,
+    "created_at": "2022-05-21T21:00:14.865244Z",
+    "updated_at": "2022-05-21T21:00:14.865266Z",
+    "lead_time": 3.929
+  },
+  {
+    "text": "1 cucharada de sal",
+    "id": 171,
+    "label": [
+      {
+        "start": 0,
+        "end": 1,
+        "text": "1",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 2,
+        "end": 11,
+        "text": "cucharada",
+        "labels": [
+          "MEASURE"
+        ]
+      },
+      {
+        "start": 15,
+        "end": 18,
+        "text": "sal",
+        "labels": [
+          "FOOD"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 171,
+    "created_at": "2022-05-21T21:00:09.911829Z",
+    "updated_at": "2022-05-21T21:00:09.911960Z",
+    "lead_time": 3.781
+  },
+  {
+    "text": "2 cucharadas de puré de tomate",
+    "id": 170,
+    "label": [
+      {
+        "start": 0,
+        "end": 1,
+        "text": "2",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 2,
+        "end": 12,
+        "text": "cucharadas",
+        "labels": [
+          "MEASURE"
+        ]
+      },
+      {
+        "start": 16,
+        "end": 30,
+        "text": "puré de tomate",
+        "labels": [
+          "FOOD"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 170,
+    "created_at": "2022-05-21T21:00:04.657784Z",
+    "updated_at": "2022-05-21T21:00:04.657818Z",
+    "lead_time": 14.873
+  },
+  {
+    "text": "1 macito pequeño de perejil",
+    "id": 169,
+    "label": [
+      {
+        "start": 0,
+        "end": 1,
+        "text": "1",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 2,
+        "end": 8,
+        "text": "macito",
+        "labels": [
+          "MEASURE"
+        ]
+      },
+      {
+        "start": 20,
+        "end": 27,
+        "text": "perejil",
+        "labels": [
+          "FOOD"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 169,
+    "created_at": "2022-05-21T20:59:48.701370Z",
+    "updated_at": "2022-05-21T20:59:48.701486Z",
+    "lead_time": 5.194
+  },
+  {
+    "text": "3 dientes de ajo",
+    "id": 168,
+    "label": [
+      {
+        "start": 0,
+        "end": 1,
+        "text": "3",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 13,
+        "end": 16,
+        "text": "ajo",
+        "labels": [
+          "FOOD"
+        ]
+      },
+      {
+        "start": 2,
+        "end": 9,
+        "text": "dientes",
+        "labels": [
+          "MEASURE"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 168,
+    "created_at": "2022-05-21T20:59:41.996716Z",
+    "updated_at": "2022-05-21T20:59:41.996775Z",
+    "lead_time": 4.614
+  },
+  {
+    "text": "1 cebolla chica o un macito de cebollinos",
+    "id": 167,
+    "label": [
+      {
+        "start": 0,
+        "end": 1,
+        "text": "1",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 2,
+        "end": 9,
+        "text": "cebolla",
+        "labels": [
+          "FOOD"
+        ]
+      },
+      {
+        "start": 21,
+        "end": 27,
+        "text": "macito",
+        "labels": [
+          "MEASURE"
+        ]
+      },
+      {
+        "start": 31,
+        "end": 41,
+        "text": "cebollinos",
+        "labels": [
+          "FOOD"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 167,
+    "created_at": "2022-05-21T20:59:35.785190Z",
+    "updated_at": "2022-05-21T20:59:35.785237Z",
+    "lead_time": 16.936
+  },
+  {
+    "text": "2 cucharadas de aceite o mantequilla",
+    "id": 166,
+    "label": [
+      {
+        "start": 0,
+        "end": 1,
+        "text": "2",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 2,
+        "end": 12,
+        "text": "cucharadas",
+        "labels": [
+          "MEASURE"
+        ]
+      },
+      {
+        "start": 16,
+        "end": 22,
+        "text": "aceite",
+        "labels": [
+          "FOOD"
+        ]
+      },
+      {
+        "start": 25,
+        "end": 36,
+        "text": "mantequilla",
+        "labels": [
+          "FOOD"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 166,
+    "created_at": "2022-05-21T20:59:17.733091Z",
+    "updated_at": "2022-05-21T20:59:17.733284Z",
+    "lead_time": 4.957
+  },
+  {
+    "text": "6 tazas de agua",
+    "id": 165,
+    "label": [
+      {
+        "start": 0,
+        "end": 1,
+        "text": "6",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 11,
+        "end": 15,
+        "text": "agua",
+        "labels": [
+          "FOOD"
+        ]
+      },
+      {
+        "start": 2,
+        "end": 7,
+        "text": "tazas",
+        "labels": [
+          "MEASURE"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 165,
+    "created_at": "2022-05-21T20:59:10.730287Z",
+    "updated_at": "2022-05-21T20:59:10.730326Z",
+    "lead_time": 4.409
+  },
+  {
+    "text": "1 cabeza de pescado",
+    "id": 164,
+    "label": [
+      {
+        "start": 0,
+        "end": 1,
+        "text": "1",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 2,
+        "end": 8,
+        "text": "cabeza",
+        "labels": [
+          "MEASURE"
+        ]
+      },
+      {
+        "start": 12,
+        "end": 19,
+        "text": "pescado",
+        "labels": [
+          "FOOD"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 164,
+    "created_at": "2022-05-21T20:59:04.775850Z",
+    "updated_at": "2022-05-21T20:59:04.775881Z",
+    "lead_time": 3.524
+  },
+  {
+    "text": "½ libra de calabaza",
+    "id": 163,
+    "label": [
+      {
+        "start": 0,
+        "end": 1,
+        "text": "½",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 2,
+        "end": 7,
+        "text": "libra",
+        "labels": [
+          "MEASURE"
+        ]
+      },
+      {
+        "start": 11,
+        "end": 19,
+        "text": "calabaza",
+        "labels": [
+          "FOOD"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 163,
+    "created_at": "2022-05-21T20:58:59.478817Z",
+    "updated_at": "2022-05-21T20:58:59.478851Z",
+    "lead_time": 6.266
+  },
+  {
+    "text": "1 libra de papas",
+    "id": 162,
+    "label": [
+      {
+        "start": 0,
+        "end": 1,
+        "text": "1",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 2,
+        "end": 7,
+        "text": "libra",
+        "labels": [
+          "MEASURE"
+        ]
+      },
+      {
+        "start": 11,
+        "end": 16,
+        "text": "papas",
+        "labels": [
+          "FOOD"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 162,
+    "created_at": "2022-05-21T20:58:52.061055Z",
+    "updated_at": "2022-05-21T20:58:52.061122Z",
+    "lead_time": 3.524
+  },
+  {
+    "text": "1 cucharada de aceite o manteca",
+    "id": 161,
+    "label": [
+      {
+        "start": 0,
+        "end": 1,
+        "text": "1",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 2,
+        "end": 11,
+        "text": "cucharada",
+        "labels": [
+          "MEASURE"
+        ]
+      },
+      {
+        "start": 15,
+        "end": 21,
+        "text": "aceite",
+        "labels": [
+          "FOOD"
+        ]
+      },
+      {
+        "start": 24,
+        "end": 31,
+        "text": "manteca",
+        "labels": [
+          "FOOD"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 161,
+    "created_at": "2022-05-21T20:58:47.425683Z",
+    "updated_at": "2022-05-21T20:58:47.425783Z",
+    "lead_time": 6.227
+  },
+  {
+    "text": "3 cucharadas de harina de trigo, aproximadamente",
+    "id": 160,
+    "label": [
+      {
+        "start": 0,
+        "end": 1,
+        "text": "3",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 2,
+        "end": 12,
+        "text": "cucharadas",
+        "labels": [
+          "MEASURE"
+        ]
+      },
+      {
+        "start": 16,
+        "end": 31,
+        "text": "harina de trigo",
+        "labels": [
+          "FOOD"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 160,
+    "created_at": "2022-05-21T20:58:39.929360Z",
+    "updated_at": "2022-05-21T20:58:39.929422Z",
+    "lead_time": 12.825
+  },
+  {
+    "text": "½ taza de carne molida",
+    "id": 159,
+    "label": [
+      {
+        "start": 0,
+        "end": 1,
+        "text": "½",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 2,
+        "end": 6,
+        "text": "taza",
+        "labels": [
+          "MEASURE"
+        ]
+      },
+      {
+        "start": 10,
+        "end": 15,
+        "text": "carne",
+        "labels": [
+          "FOOD"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 159,
+    "created_at": "2022-05-21T20:58:25.656018Z",
+    "updated_at": "2022-05-21T20:58:25.656085Z",
+    "lead_time": 4.343
+  },
+  {
+    "text": "⅛ de cucharadita de pimienta",
+    "id": 158,
+    "label": [
+      {
+        "start": 0,
+        "end": 1,
+        "text": "⅛",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 5,
+        "end": 16,
+        "text": "cucharadita",
+        "labels": [
+          "MEASURE"
+        ]
+      },
+      {
+        "start": 20,
+        "end": 28,
+        "text": "pimienta",
+        "labels": [
+          "FOOD"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 158,
+    "created_at": "2022-05-21T20:58:20.034765Z",
+    "updated_at": "2022-05-21T20:58:20.034832Z",
+    "lead_time": 3.486
+  },
+  {
+    "text": "1 cucharadita de sal",
+    "id": 157,
+    "label": [
+      {
+        "start": 0,
+        "end": 1,
+        "text": "1",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 2,
+        "end": 13,
+        "text": "cucharadita",
+        "labels": [
+          "MEASURE"
+        ]
+      },
+      {
+        "start": 17,
+        "end": 20,
+        "text": "sal",
+        "labels": [
+          "FOOD"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 157,
+    "created_at": "2022-05-21T20:58:15.115076Z",
+    "updated_at": "2022-05-21T20:58:15.115256Z",
+    "lead_time": 3.667
+  },
+  {
+    "text": "1 yema de huevo",
+    "id": 156,
+    "label": [
+      {
+        "start": 0,
+        "end": 1,
+        "text": "1",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 2,
+        "end": 6,
+        "text": "yema",
+        "labels": [
+          "MEASURE"
+        ]
+      },
+      {
+        "start": 10,
+        "end": 15,
+        "text": "huevo",
+        "labels": [
+          "FOOD"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 156,
+    "created_at": "2022-05-21T20:58:10.415136Z",
+    "updated_at": "2022-05-21T20:58:10.415249Z",
+    "lead_time": 3.723
+  },
+  {
+    "text": "⅛ de cucharadita de pimienta",
+    "id": 155,
+    "label": [
+      {
+        "start": 0,
+        "end": 1,
+        "text": "⅛",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 5,
+        "end": 16,
+        "text": "cucharadita",
+        "labels": [
+          "MEASURE"
+        ]
+      },
+      {
+        "start": 20,
+        "end": 28,
+        "text": "pimienta",
+        "labels": [
+          "FOOD"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 155,
+    "created_at": "2022-05-21T20:58:04.982639Z",
+    "updated_at": "2022-05-21T20:58:04.982690Z",
+    "lead_time": 4.866
+  },
+  {
+    "text": "½ libra de yuca u otra vianda",
+    "id": 154,
+    "label": [
+      {
+        "start": 0,
+        "end": 1,
+        "text": "½",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 2,
+        "end": 7,
+        "text": "libra",
+        "labels": [
+          "MEASURE"
+        ]
+      },
+      {
+        "start": 11,
+        "end": 15,
+        "text": "yuca",
+        "labels": [
+          "FOOD"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 154,
+    "created_at": "2022-05-21T20:57:59.014569Z",
+    "updated_at": "2022-05-21T20:57:59.014624Z",
+    "lead_time": 4.039
+  },
+  {
+    "text": "2½ cucharaditas de sal",
+    "id": 153,
+    "label": [
+      {
+        "start": 0,
+        "end": 2,
+        "text": "2½",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 3,
+        "end": 15,
+        "text": "cucharaditas",
+        "labels": [
+          "MEASURE"
+        ]
+      },
+      {
+        "start": 19,
+        "end": 22,
+        "text": "sal",
+        "labels": [
+          "FOOD"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 153,
+    "created_at": "2022-05-21T20:57:53.938677Z",
+    "updated_at": "2022-05-21T20:57:53.938815Z",
+    "lead_time": 6.139
+  },
+  {
+    "text": "2 cucharadas de puré de tomate",
+    "id": 152,
+    "label": [
+      {
+        "start": 0,
+        "end": 1,
+        "text": "2",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 2,
+        "end": 12,
+        "text": "cucharadas",
+        "labels": [
+          "MEASURE"
+        ]
+      },
+      {
+        "start": 16,
+        "end": 30,
+        "text": "puré de tomate",
+        "labels": [
+          "FOOD"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 152,
+    "created_at": "2022-05-21T20:57:45.455372Z",
+    "updated_at": "2022-05-21T20:57:45.455443Z",
+    "lead_time": 11.954
+  },
+  {
+    "text": "2 cucharadas de cebolla o cebollinos picaditos",
+    "id": 151,
+    "label": [
+      {
+        "start": 0,
+        "end": 1,
+        "text": "2",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 2,
+        "end": 12,
+        "text": "cucharadas",
+        "labels": [
+          "MEASURE"
+        ]
+      },
+      {
+        "start": 16,
+        "end": 23,
+        "text": "cebolla",
+        "labels": [
+          "FOOD"
+        ]
+      },
+      {
+        "start": 26,
+        "end": 36,
+        "text": "cebollinos",
+        "labels": [
+          "FOOD"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 151,
+    "created_at": "2022-05-21T20:57:32.124390Z",
+    "updated_at": "2022-05-21T20:57:32.124419Z",
+    "lead_time": 5.147
+  },
+  {
+    "text": "1 cucharada de aceite o manteca",
+    "id": 150,
+    "label": [
+      {
+        "start": 0,
+        "end": 1,
+        "text": "1",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 2,
+        "end": 11,
+        "text": "cucharada",
+        "labels": [
+          "MEASURE"
+        ]
+      },
+      {
+        "start": 15,
+        "end": 21,
+        "text": "aceite",
+        "labels": [
+          "FOOD"
+        ]
+      },
+      {
+        "start": 24,
+        "end": 31,
+        "text": "manteca",
+        "labels": [
+          "FOOD"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 150,
+    "created_at": "2022-05-21T20:57:26.002609Z",
+    "updated_at": "2022-05-21T20:57:26.002754Z",
+    "lead_time": 4.971
+  },
+  {
+    "text": "4 tazas de agua",
+    "id": 149,
+    "label": [
+      {
+        "start": 0,
+        "end": 1,
+        "text": "4",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 11,
+        "end": 15,
+        "text": "agua",
+        "labels": [
+          "FOOD"
+        ]
+      },
+      {
+        "start": 2,
+        "end": 7,
+        "text": "tazas",
+        "labels": [
+          "MEASURE"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 149,
+    "created_at": "2022-05-21T20:57:19.188265Z",
+    "updated_at": "2022-05-21T20:57:19.188389Z",
+    "lead_time": 4.604
+  },
+  {
+    "text": "½ taza de chícharos, judías o garbanzos",
+    "id": 148,
+    "label": [
+      {
+        "start": 0,
+        "end": 1,
+        "text": "½",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 2,
+        "end": 6,
+        "text": "taza",
+        "labels": [
+          "MEASURE"
+        ]
+      },
+      {
+        "start": 10,
+        "end": 19,
+        "text": "chícharos",
+        "labels": [
+          "FOOD"
+        ]
+      },
+      {
+        "start": 21,
+        "end": 27,
+        "text": "judías",
+        "labels": [
+          "FOOD"
+        ]
+      },
+      {
+        "start": 30,
+        "end": 39,
+        "text": "garbanzos",
+        "labels": [
+          "FOOD"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 148,
+    "created_at": "2022-05-21T20:57:05.075782Z",
+    "updated_at": "2022-05-21T20:57:12.718389Z",
+    "lead_time": 2236.351
+  },
+  {
+    "text": "1 taza de vegetales cocinados",
+    "id": 147,
+    "label": [
+      {
+        "start": 0,
+        "end": 1,
+        "text": "1",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 2,
+        "end": 6,
+        "text": "taza",
+        "labels": [
+          "MEASURE"
+        ]
+      },
+      {
+        "start": 10,
+        "end": 19,
+        "text": "vegetales",
+        "labels": [
+          "FOOD"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 147,
+    "created_at": "2022-05-21T20:57:00.406026Z",
+    "updated_at": "2022-05-21T20:57:00.406140Z",
+    "lead_time": 4.341
+  },
+  {
+    "text": "1 cucharadita de sal",
+    "id": 146,
+    "label": [
+      {
+        "start": 0,
+        "end": 1,
+        "text": "1",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 2,
+        "end": 13,
+        "text": "cucharadita",
+        "labels": [
+          "MEASURE"
+        ]
+      },
+      {
+        "start": 17,
+        "end": 20,
+        "text": "sal",
+        "labels": [
+          "FOOD"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 146,
+    "created_at": "2022-05-21T20:56:54.764681Z",
+    "updated_at": "2022-05-21T20:56:54.764793Z",
+    "lead_time": 4.597
+  },
+  {
+    "text": "2 tazas de leche",
+    "id": 145,
+    "label": [
+      {
+        "start": 0,
+        "end": 1,
+        "text": "2",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 2,
+        "end": 7,
+        "text": "tazas",
+        "labels": [
+          "MEASURE"
+        ]
+      },
+      {
+        "start": 11,
+        "end": 16,
+        "text": "leche",
+        "labels": [
+          "FOOD"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 145,
+    "created_at": "2022-05-21T20:56:48.648876Z",
+    "updated_at": "2022-05-21T20:56:48.648927Z",
+    "lead_time": 5.115
+  },
+  {
+    "text": "4 cucharadas de harina",
+    "id": 144,
+    "label": [
+      {
+        "start": 0,
+        "end": 1,
+        "text": "4",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 2,
+        "end": 12,
+        "text": "cucharadas",
+        "labels": [
+          "MEASURE"
+        ]
+      },
+      {
+        "start": 16,
+        "end": 22,
+        "text": "harina",
+        "labels": [
+          "FOOD"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 144,
+    "created_at": "2022-05-21T20:56:42.481261Z",
+    "updated_at": "2022-05-21T20:56:42.481352Z",
+    "lead_time": 3.067
+  },
+  {
+    "text": "3 cucharadas de mantequilla",
+    "id": 143,
+    "label": [
+      {
+        "start": 0,
+        "end": 1,
+        "text": "3",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 2,
+        "end": 12,
+        "text": "cucharadas",
+        "labels": [
+          "MEASURE"
+        ]
+      },
+      {
+        "start": 16,
+        "end": 27,
+        "text": "mantequilla",
+        "labels": [
+          "FOOD"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 143,
+    "created_at": "2022-05-21T20:56:38.262561Z",
+    "updated_at": "2022-05-21T20:56:38.262731Z",
+    "lead_time": 3.695
+  },
+  {
+    "text": "1 taza de papas cocinadas o puré de papas",
+    "id": 142,
+    "label": [
+      {
+        "start": 0,
+        "end": 1,
+        "text": "1",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 2,
+        "end": 6,
+        "text": "taza",
+        "labels": [
+          "MEASURE"
+        ]
+      },
+      {
+        "start": 10,
+        "end": 15,
+        "text": "papas",
+        "labels": [
+          "FOOD"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 142,
+    "created_at": "2022-05-21T20:56:33.189921Z",
+    "updated_at": "2022-05-21T20:56:33.189954Z",
+    "lead_time": 3.431
+  },
+  {
+    "text": "1 taza de vegetales cocinados",
+    "id": 141,
+    "label": [
+      {
+        "start": 0,
+        "end": 1,
+        "text": "1",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 2,
+        "end": 6,
+        "text": "taza",
+        "labels": [
+          "MEASURE"
+        ]
+      },
+      {
+        "start": 10,
+        "end": 19,
+        "text": "vegetales",
+        "labels": [
+          "FOOD"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 141,
+    "created_at": "2022-05-21T20:56:28.485506Z",
+    "updated_at": "2022-05-21T20:56:28.485533Z",
+    "lead_time": 3.45
+  },
+  {
+    "text": "1 cucharadita de sal",
+    "id": 140,
+    "label": [
+      {
+        "start": 0,
+        "end": 1,
+        "text": "1",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 2,
+        "end": 13,
+        "text": "cucharadita",
+        "labels": [
+          "MEASURE"
+        ]
+      },
+      {
+        "start": 17,
+        "end": 20,
+        "text": "sal",
+        "labels": [
+          "FOOD"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 140,
+    "created_at": "2022-05-21T20:56:23.461173Z",
+    "updated_at": "2022-05-21T20:56:23.461285Z",
+    "lead_time": 3.555
+  },
+  {
+    "text": "2 tazas de leche",
+    "id": 139,
+    "label": [
+      {
+        "start": 0,
+        "end": 1,
+        "text": "2",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 2,
+        "end": 7,
+        "text": "tazas",
+        "labels": [
+          "MEASURE"
+        ]
+      },
+      {
+        "start": 11,
+        "end": 16,
+        "text": "leche",
+        "labels": [
+          "FOOD"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 139,
+    "created_at": "2022-05-21T20:56:18.254317Z",
+    "updated_at": "2022-05-21T20:56:18.254411Z",
+    "lead_time": 3.385
+  },
+  {
+    "text": "4 cucharadas de harina",
+    "id": 138,
+    "label": [
+      {
+        "start": 0,
+        "end": 1,
+        "text": "4",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 2,
+        "end": 12,
+        "text": "cucharadas",
+        "labels": [
+          "MEASURE"
+        ]
+      },
+      {
+        "start": 16,
+        "end": 22,
+        "text": "harina",
+        "labels": [
+          "FOOD"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 138,
+    "created_at": "2022-05-21T20:56:13.682100Z",
+    "updated_at": "2022-05-21T20:56:13.682141Z",
+    "lead_time": 4.925
+  },
+  {
+    "text": "3 cucharadas de mantequilla",
+    "id": 137,
+    "label": [
+      {
+        "start": 0,
+        "end": 1,
+        "text": "3",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 2,
+        "end": 12,
+        "text": "cucharadas",
+        "labels": [
+          "MEASURE"
+        ]
+      },
+      {
+        "start": 16,
+        "end": 27,
+        "text": "mantequilla",
+        "labels": [
+          "FOOD"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 137,
+    "created_at": "2022-05-21T20:56:07.756517Z",
+    "updated_at": "2022-05-21T20:56:07.756551Z",
+    "lead_time": 3.377
+  },
+  {
+    "text": "1 taza de espárragos picaditos",
+    "id": 136,
+    "label": [
+      {
+        "start": 0,
+        "end": 1,
+        "text": "1",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 2,
+        "end": 6,
+        "text": "taza",
+        "labels": [
+          "MEASURE"
+        ]
+      },
+      {
+        "start": 10,
+        "end": 20,
+        "text": "espárragos",
+        "labels": [
+          "FOOD"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 136,
+    "created_at": "2022-05-21T20:56:03.101147Z",
+    "updated_at": "2022-05-21T20:56:03.101222Z",
+    "lead_time": 7.633
+  },
+  {
+    "text": "1 taza de vegetales cocinados",
+    "id": 135,
+    "label": [
+      {
+        "start": 0,
+        "end": 1,
+        "text": "1",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 2,
+        "end": 6,
+        "text": "taza",
+        "labels": [
+          "MEASURE"
+        ]
+      },
+      {
+        "start": 10,
+        "end": 19,
+        "text": "vegetales",
+        "labels": [
+          "FOOD"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 135,
+    "created_at": "2022-05-21T20:55:52.256280Z",
+    "updated_at": "2022-05-21T20:55:52.256301Z",
+    "lead_time": 3.879
+  },
+  {
+    "text": "1 cucharadita de sal",
+    "id": 134,
+    "label": [
+      {
+        "start": 0,
+        "end": 1,
+        "text": "1",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 2,
+        "end": 13,
+        "text": "cucharadita",
+        "labels": [
+          "MEASURE"
+        ]
+      },
+      {
+        "start": 17,
+        "end": 20,
+        "text": "sal",
+        "labels": [
+          "FOOD"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 134,
+    "created_at": "2022-05-21T20:55:46.925680Z",
+    "updated_at": "2022-05-21T20:55:46.925736Z",
+    "lead_time": 3.583
+  },
+  {
+    "text": "2 tazas de leche",
+    "id": 133,
+    "label": [
+      {
+        "start": 0,
+        "end": 1,
+        "text": "2",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 2,
+        "end": 7,
+        "text": "tazas",
+        "labels": [
+          "MEASURE"
+        ]
+      },
+      {
+        "start": 11,
+        "end": 16,
+        "text": "leche",
+        "labels": [
+          "FOOD"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 133,
+    "created_at": "2022-05-21T20:55:42.173041Z",
+    "updated_at": "2022-05-21T20:55:42.173067Z",
+    "lead_time": 3.591
+  },
+  {
+    "text": "4 cucharadas de harina",
+    "id": 132,
+    "label": [
+      {
+        "start": 0,
+        "end": 1,
+        "text": "4",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 2,
+        "end": 12,
+        "text": "cucharadas",
+        "labels": [
+          "MEASURE"
+        ]
+      },
+      {
+        "start": 16,
+        "end": 22,
+        "text": "harina",
+        "labels": [
+          "FOOD"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 132,
+    "created_at": "2022-05-21T20:55:37.525356Z",
+    "updated_at": "2022-05-21T20:55:37.525458Z",
+    "lead_time": 3.368
+  },
+  {
+    "text": "3 cucharadas de mantequilla",
+    "id": 131,
+    "label": [
+      {
+        "start": 0,
+        "end": 1,
+        "text": "3",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 2,
+        "end": 12,
+        "text": "cucharadas",
+        "labels": [
+          "MEASURE"
+        ]
+      },
+      {
+        "start": 16,
+        "end": 27,
+        "text": "mantequilla",
+        "labels": [
+          "FOOD"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 131,
+    "created_at": "2022-05-21T20:55:33.185853Z",
+    "updated_at": "2022-05-21T20:55:33.185904Z",
+    "lead_time": 2.861
+  },
+  {
+    "text": "1 taza de espinacas o acelgas crudas",
+    "id": 130,
+    "label": [
+      {
+        "start": 0,
+        "end": 1,
+        "text": "1",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 2,
+        "end": 6,
+        "text": "taza",
+        "labels": [
+          "MEASURE"
+        ]
+      },
+      {
+        "start": 10,
+        "end": 19,
+        "text": "espinacas",
+        "labels": [
+          "FOOD"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 130,
+    "created_at": "2022-05-21T20:55:29.252753Z",
+    "updated_at": "2022-05-21T20:55:29.252795Z",
+    "lead_time": 6.353
+  },
+  {
+    "text": "1 taza de vegetal cocinado",
+    "id": 129,
+    "label": [
+      {
+        "start": 0,
+        "end": 1,
+        "text": "1",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 2,
+        "end": 6,
+        "text": "taza",
+        "labels": [
+          "MEASURE"
+        ]
+      },
+      {
+        "start": 10,
+        "end": 17,
+        "text": "vegetal",
+        "labels": [
+          "FOOD"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 129,
+    "created_at": "2022-05-21T20:55:21.836318Z",
+    "updated_at": "2022-05-21T20:55:21.836465Z",
+    "lead_time": 3.824
+  },
+  {
+    "text": "6 cucharadas de leche en polvo",
+    "id": 128,
+    "label": [
+      {
+        "start": 0,
+        "end": 1,
+        "text": "6",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 2,
+        "end": 12,
+        "text": "cucharadas",
+        "labels": [
+          "MEASURE"
+        ]
+      },
+      {
+        "start": 16,
+        "end": 30,
+        "text": "leche en polvo",
+        "labels": [
+          "FOOD"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 128,
+    "created_at": "2022-05-21T20:55:14.084168Z",
+    "updated_at": "2022-05-21T20:55:14.084240Z",
+    "lead_time": 7.928
+  },
+  {
+    "text": "1 cucharadita de sal",
+    "id": 127,
+    "label": [
+      {
+        "start": 0,
+        "end": 1,
+        "text": "1",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 2,
+        "end": 13,
+        "text": "cucharadita",
+        "labels": [
+          "MEASURE"
+        ]
+      },
+      {
+        "start": 17,
+        "end": 20,
+        "text": "sal",
+        "labels": [
+          "FOOD"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 127,
+    "created_at": "2022-05-21T20:55:04.998485Z",
+    "updated_at": "2022-05-21T20:55:04.998512Z",
+    "lead_time": 4.396
+  },
+  {
+    "text": "11⁄3 de tazas de agua de los vegetales",
+    "id": 126,
+    "label": [
+      {
+        "start": 0,
+        "end": 4,
+        "text": "11⁄3",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 8,
+        "end": 13,
+        "text": "tazas",
+        "labels": [
+          "MEASURE"
+        ]
+      },
+      {
+        "start": 17,
+        "end": 21,
+        "text": "agua",
+        "labels": [
+          "FOOD"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 126,
+    "created_at": "2022-05-21T20:54:59.386047Z",
+    "updated_at": "2022-05-21T20:54:59.386126Z",
+    "lead_time": 11.79
+  },
+  {
+    "text": "2 cucharadas de harina",
+    "id": 125,
+    "label": [
+      {
+        "start": 0,
+        "end": 1,
+        "text": "2",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 2,
+        "end": 12,
+        "text": "cucharadas",
+        "labels": [
+          "MEASURE"
+        ]
+      },
+      {
+        "start": 16,
+        "end": 22,
+        "text": "harina",
+        "labels": [
+          "FOOD"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 125,
+    "created_at": "2022-05-21T20:54:42.425278Z",
+    "updated_at": "2022-05-21T20:54:42.425349Z",
+    "lead_time": 4.662
+  },
+  {
+    "text": "4 cucharadas de mantequilla",
+    "id": 124,
+    "label": [
+      {
+        "start": 0,
+        "end": 1,
+        "text": "4",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 2,
+        "end": 12,
+        "text": "cucharadas",
+        "labels": [
+          "MEASURE"
+        ]
+      },
+      {
+        "start": 16,
+        "end": 27,
+        "text": "mantequilla",
+        "labels": [
+          "FOOD"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 124,
+    "created_at": "2022-05-21T20:54:36.615625Z",
+    "updated_at": "2022-05-21T20:54:36.615692Z",
+    "lead_time": 3.472
+  },
+  {
+    "text": "1 taza de vegetales cocinados",
+    "id": 123,
+    "label": [
+      {
+        "start": 0,
+        "end": 1,
+        "text": "1",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 2,
+        "end": 6,
+        "text": "taza",
+        "labels": [
+          "MEASURE"
+        ]
+      },
+      {
+        "start": 10,
+        "end": 19,
+        "text": "vegetales",
+        "labels": [
+          "FOOD"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 123,
+    "created_at": "2022-05-21T20:54:31.920499Z",
+    "updated_at": "2022-05-21T20:54:31.920541Z",
+    "lead_time": 3.808
+  },
+  {
+    "text": "1 cucharadita de sal",
+    "id": 122,
+    "label": [
+      {
+        "start": 0,
+        "end": 1,
+        "text": "1",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 2,
+        "end": 13,
+        "text": "cucharadita",
+        "labels": [
+          "MEASURE"
+        ]
+      },
+      {
+        "start": 17,
+        "end": 20,
+        "text": "sal",
+        "labels": [
+          "FOOD"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 122,
+    "created_at": "2022-05-21T20:54:27.039035Z",
+    "updated_at": "2022-05-21T20:54:27.039066Z",
+    "lead_time": 3.623
+  },
+  {
+    "text": "2 tazas de leche",
+    "id": 121,
+    "label": [
+      {
+        "start": 0,
+        "end": 1,
+        "text": "2",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 2,
+        "end": 7,
+        "text": "tazas",
+        "labels": [
+          "MEASURE"
+        ]
+      },
+      {
+        "start": 11,
+        "end": 16,
+        "text": "leche",
+        "labels": [
+          "FOOD"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 121,
+    "created_at": "2022-05-21T20:54:22.036557Z",
+    "updated_at": "2022-05-21T20:54:22.036629Z",
+    "lead_time": 3.213
+  },
+  {
+    "text": "4 cucharadas de harina",
+    "id": 120,
+    "label": [
+      {
+        "start": 0,
+        "end": 1,
+        "text": "4",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 2,
+        "end": 12,
+        "text": "cucharadas",
+        "labels": [
+          "FOOD"
+        ]
+      },
+      {
+        "start": 16,
+        "end": 22,
+        "text": "harina",
+        "labels": [
+          "FOOD"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 120,
+    "created_at": "2022-05-21T20:54:17.299774Z",
+    "updated_at": "2022-05-21T20:54:17.299808Z",
+    "lead_time": 7.001
+  },
+  {
+    "text": "3 cucharadas de mantequilla",
+    "id": 119,
+    "label": [
+      {
+        "start": 0,
+        "end": 1,
+        "text": "3",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 2,
+        "end": 12,
+        "text": "cucharadas",
+        "labels": [
+          "MEASURE"
+        ]
+      },
+      {
+        "start": 16,
+        "end": 27,
+        "text": "mantequilla",
+        "labels": [
+          "FOOD"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 119,
+    "created_at": "2022-05-21T20:54:08.318695Z",
+    "updated_at": "2022-05-21T20:54:08.318800Z",
+    "lead_time": 3.679
+  },
+  {
+    "text": "1 taza de zanahorias cocinadas, en cuadritos o puré",
+    "id": 118,
+    "label": [
+      {
+        "start": 0,
+        "end": 1,
+        "text": "1",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 2,
+        "end": 6,
+        "text": "taza",
+        "labels": [
+          "MEASURE"
+        ]
+      },
+      {
+        "start": 10,
+        "end": 20,
+        "text": "zanahorias",
+        "labels": [
+          "FOOD"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 118,
+    "created_at": "2022-05-21T20:54:03.339369Z",
+    "updated_at": "2022-05-21T20:54:03.339461Z",
+    "lead_time": 5.17
+  },
+  {
+    "text": "⅛ de cucharadita de pimienta, al gusto",
+    "id": 117,
+    "label": [
+      {
+        "start": 0,
+        "end": 1,
+        "text": "⅛",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 5,
+        "end": 16,
+        "text": "cucharadita",
+        "labels": [
+          "MEASURE"
+        ]
+      },
+      {
+        "start": 20,
+        "end": 28,
+        "text": "pimienta",
+        "labels": [
+          "FOOD"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 117,
+    "created_at": "2022-05-21T20:53:56.908372Z",
+    "updated_at": "2022-05-21T20:53:56.908404Z",
+    "lead_time": 3.589
+  },
+  {
+    "text": "1 cucharadita de sal, aproximadamente",
+    "id": 116,
+    "label": [
+      {
+        "start": 0,
+        "end": 1,
+        "text": "1",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 2,
+        "end": 13,
+        "text": "cucharadita",
+        "labels": [
+          "MEASURE"
+        ]
+      },
+      {
+        "start": 17,
+        "end": 20,
+        "text": "sal",
+        "labels": [
+          "FOOD"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 116,
+    "created_at": "2022-05-21T20:52:44.076489Z",
+    "updated_at": "2022-05-21T20:52:44.076568Z",
+    "lead_time": 5.797
+  },
+  {
+    "text": "½ taza de puré de tomate",
+    "id": 115,
+    "label": [
+      {
+        "start": 0,
+        "end": 1,
+        "text": "½",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 2,
+        "end": 6,
+        "text": "taza",
+        "labels": [
+          "MEASURE"
+        ]
+      },
+      {
+        "start": 10,
+        "end": 24,
+        "text": "puré de tomate",
+        "labels": [
+          "FOOD"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 115,
+    "created_at": "2022-05-21T20:52:36.452851Z",
+    "updated_at": "2022-05-21T20:52:36.452908Z",
+    "lead_time": 13.348
+  },
+  {
+    "text": "1½ tazas de leche fresca",
+    "id": 114,
+    "label": [
+      {
+        "start": 0,
+        "end": 2,
+        "text": "1½",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 3,
+        "end": 8,
+        "text": "tazas",
+        "labels": [
+          "MEASURE"
+        ]
+      },
+      {
+        "start": 12,
+        "end": 17,
+        "text": "leche",
+        "labels": [
+          "FOOD"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 114,
+    "created_at": "2022-05-21T20:52:12.530749Z",
+    "updated_at": "2022-05-21T20:52:12.530865Z",
+    "lead_time": 3.876
+  },
+  {
+    "text": "3 cucharadas de harina de trigo",
+    "id": 113,
+    "label": [
+      {
+        "start": 0,
+        "end": 1,
+        "text": "3",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 2,
+        "end": 12,
+        "text": "cucharadas",
+        "labels": [
+          "MEASURE"
+        ]
+      },
+      {
+        "start": 16,
+        "end": 31,
+        "text": "harina de trigo",
+        "labels": [
+          "FOOD"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 113,
+    "created_at": "2022-05-21T20:52:06.898552Z",
+    "updated_at": "2022-05-21T20:52:06.898621Z",
+    "lead_time": 10.015
+  },
+  {
+    "text": "2 cucharadas de aceite o mantequilla",
+    "id": 112,
+    "label": [
+      {
+        "start": 0,
+        "end": 1,
+        "text": "2",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 16,
+        "end": 22,
+        "text": "aceite",
+        "labels": [
+          "FOOD"
+        ]
+      },
+      {
+        "start": 2,
+        "end": 12,
+        "text": "cucharadas",
+        "labels": [
+          "MEASURE"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 112,
+    "created_at": "2022-05-21T20:51:40.124673Z",
+    "updated_at": "2022-05-21T20:51:43.523250Z",
+    "lead_time": 1907.176
+  },
+  {
+    "text": "4 tazas de caldo",
+    "id": 111,
+    "label": [
+      {
+        "start": 0,
+        "end": 1,
+        "text": "4",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 2,
+        "end": 7,
+        "text": "tazas",
+        "labels": [
+          "MEASURE"
+        ]
+      },
+      {
+        "start": 11,
+        "end": 16,
+        "text": "caldo",
+        "labels": [
+          "FOOD"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 111,
+    "created_at": "2022-05-21T20:51:34.448562Z",
+    "updated_at": "2022-05-21T20:51:34.448594Z",
+    "lead_time": 4.659
+  },
+  {
+    "text": "½ taza de chícharos secos, pelados (se pueden sustituir por guisantes tiernos en conserva)",
+    "id": 110,
+    "label": [
+      {
+        "start": 0,
+        "end": 1,
+        "text": "½",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 2,
+        "end": 6,
+        "text": "taza",
+        "labels": [
+          "MEASURE"
+        ]
+      },
+      {
+        "start": 10,
+        "end": 19,
+        "text": "chícharos",
+        "labels": [
+          "FOOD"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 110,
+    "created_at": "2022-05-21T20:51:27.840923Z",
+    "updated_at": "2022-05-21T20:51:27.840996Z",
+    "lead_time": 7.503
+  },
+  {
+    "text": "1 pedazo pequeño de chorizo y otro de tocino, si no se usa caldo que tenga estos ingredientes",
+    "id": 109,
+    "label": [
+      {
+        "start": 0,
+        "end": 1,
+        "text": "1",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 2,
+        "end": 8,
+        "text": "pedazo",
+        "labels": [
+          "MEASURE"
+        ]
+      },
+      {
+        "start": 20,
+        "end": 27,
+        "text": "chorizo",
+        "labels": [
+          "FOOD"
+        ]
+      },
+      {
+        "start": 38,
+        "end": 44,
+        "text": "tocino",
+        "labels": [
+          "FOOD"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 109,
+    "created_at": "2022-05-21T20:51:18.142761Z",
+    "updated_at": "2022-05-21T20:51:18.142849Z",
+    "lead_time": 12.47
+  },
+  {
+    "text": "1 tallo de apio o perejil",
+    "id": 108,
+    "label": [
+      {
+        "start": 0,
+        "end": 1,
+        "text": "1",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 2,
+        "end": 7,
+        "text": "tallo",
+        "labels": [
+          "MEASURE"
+        ]
+      },
+      {
+        "start": 11,
+        "end": 15,
+        "text": "apio",
+        "labels": [
+          "FOOD"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 108,
+    "created_at": "2022-05-21T20:51:03.860532Z",
+    "updated_at": "2022-05-21T20:51:03.860634Z",
+    "lead_time": 7.227
+  },
+  {
+    "text": "2 zanahorias",
+    "id": 107,
+    "label": [
+      {
+        "start": 0,
+        "end": 1,
+        "text": "2",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 2,
+        "end": 12,
+        "text": "zanahorias",
+        "labels": [
+          "FOOD"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 107,
+    "created_at": "2022-05-21T20:50:55.408594Z",
+    "updated_at": "2022-05-21T20:50:55.408639Z",
+    "lead_time": 5.165
+  },
+  {
+    "text": "4 dientes de ajo",
+    "id": 106,
+    "label": [
+      {
+        "start": 0,
+        "end": 1,
+        "text": "4",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 2,
+        "end": 9,
+        "text": "dientes",
+        "labels": [
+          "MEASURE"
+        ]
+      },
+      {
+        "start": 13,
+        "end": 16,
+        "text": "ajo",
+        "labels": [
+          "FOOD"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 106,
+    "created_at": "2022-05-21T20:50:48.210677Z",
+    "updated_at": "2022-05-21T20:50:48.210712Z",
+    "lead_time": 4.75
+  },
+  {
+    "text": "1 cebolla",
+    "id": 105,
+    "label": [
+      {
+        "start": 0,
+        "end": 1,
+        "text": "1",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 2,
+        "end": 9,
+        "text": "cebolla",
+        "labels": [
+          "FOOD"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 105,
+    "created_at": "2022-05-21T20:50:40.435944Z",
+    "updated_at": "2022-05-21T20:50:40.435985Z",
+    "lead_time": 2.797
+  },
+  {
+    "text": "2 cucharadas de manteca",
+    "id": 104,
+    "label": [
+      {
+        "start": 0,
+        "end": 1,
+        "text": "2",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 2,
+        "end": 12,
+        "text": "cucharadas",
+        "labels": [
+          "MEASURE"
+        ]
+      },
+      {
+        "start": 16,
+        "end": 23,
+        "text": "manteca",
+        "labels": [
+          "FOOD"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 104,
+    "created_at": "2022-05-21T20:50:32.333992Z",
+    "updated_at": "2022-05-21T20:50:32.334122Z",
+    "lead_time": 3.855
+  },
+  {
+    "text": "¼ de taza de leche",
+    "id": 103,
+    "label": [
+      {
+        "start": 0,
+        "end": 1,
+        "text": "¼",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 5,
+        "end": 9,
+        "text": "taza",
+        "labels": [
+          "MEASURE"
+        ]
+      },
+      {
+        "start": 13,
+        "end": 18,
+        "text": "leche",
+        "labels": [
+          "FOOD"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 103,
+    "created_at": "2022-05-21T20:50:27.341277Z",
+    "updated_at": "2022-05-21T20:50:27.341312Z",
+    "lead_time": 5.499
+  },
+  {
+    "text": "1 cucharada de mantequilla",
+    "id": 102,
+    "label": [
+      {
+        "start": 0,
+        "end": 1,
+        "text": "1",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 2,
+        "end": 11,
+        "text": "cucharada",
+        "labels": [
+          "MEASURE"
+        ]
+      },
+      {
+        "start": 15,
+        "end": 26,
+        "text": "mantequilla",
+        "labels": [
+          "FOOD"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 102,
+    "created_at": "2022-05-21T20:35:05.835022Z",
+    "updated_at": "2022-05-21T20:35:05.835060Z",
+    "lead_time": 3.939
+  },
+  {
+    "text": "4 tomates grandes bien maduros",
+    "id": 101,
+    "label": [
+      {
+        "start": 0,
+        "end": 1,
+        "text": "4",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 2,
+        "end": 9,
+        "text": "tomates",
+        "labels": [
+          "FOOD"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 101,
+    "created_at": "2022-05-21T20:35:00.184171Z",
+    "updated_at": "2022-05-21T20:35:00.184211Z",
+    "lead_time": 5.526
+  },
+  {
+    "text": "⅛ de cucharadita de pimienta",
+    "id": 100,
+    "label": [
+      {
+        "start": 0,
+        "end": 1,
+        "text": "⅛",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 5,
+        "end": 16,
+        "text": "cucharadita",
+        "labels": [
+          "MEASURE"
+        ]
+      },
+      {
+        "start": 20,
+        "end": 28,
+        "text": "pimienta",
+        "labels": [
+          "FOOD"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 100,
+    "created_at": "2022-05-21T20:34:53.271926Z",
+    "updated_at": "2022-05-21T20:34:53.272007Z",
+    "lead_time": 4.637
+  },
+  {
+    "text": "½ cebolla chica",
+    "id": 99,
+    "label": [
+      {
+        "start": 0,
+        "end": 1,
+        "text": "½",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 2,
+        "end": 9,
+        "text": "cebolla",
+        "labels": [
+          "FOOD"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 99,
+    "created_at": "2022-05-21T20:34:46.378858Z",
+    "updated_at": "2022-05-21T20:34:46.378925Z",
+    "lead_time": 12.316
+  },
+  {
+    "text": "2 cucharaditas de sal",
+    "id": 98,
+    "label": [
+      {
+        "start": 0,
+        "end": 1,
+        "text": "2",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 2,
+        "end": 14,
+        "text": "cucharaditas",
+        "labels": [
+          "MEASURE"
+        ]
+      },
+      {
+        "start": 18,
+        "end": 21,
+        "text": "sal",
+        "labels": [
+          "FOOD"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 98,
+    "created_at": "2022-05-21T20:34:32.957648Z",
+    "updated_at": "2022-05-21T20:34:32.957740Z",
+    "lead_time": 3.501
+  },
+  {
+    "text": "1½ tazas de agua",
+    "id": 97,
+    "label": [
+      {
+        "start": 0,
+        "end": 2,
+        "text": "1½",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 3,
+        "end": 8,
+        "text": "tazas",
+        "labels": [
+          "MEASURE"
+        ]
+      },
+      {
+        "start": 12,
+        "end": 16,
+        "text": "agua",
+        "labels": [
+          "FOOD"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 97,
+    "created_at": "2022-05-21T20:34:28.148008Z",
+    "updated_at": "2022-05-21T20:34:28.148036Z",
+    "lead_time": 4.049
+  },
+  {
+    "text": "½ libra de boniatos",
+    "id": 96,
+    "label": [
+      {
+        "start": 0,
+        "end": 1,
+        "text": "½",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 2,
+        "end": 7,
+        "text": "libra",
+        "labels": [
+          "MEASURE"
+        ]
+      },
+      {
+        "start": 11,
+        "end": 19,
+        "text": "boniatos",
+        "labels": [
+          "FOOD"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 96,
+    "created_at": "2022-05-21T20:34:23.053540Z",
+    "updated_at": "2022-05-21T20:34:23.053654Z",
+    "lead_time": 3.922
+  },
+  {
+    "text": "1 taza de vegetales cocinados",
+    "id": 95,
+    "label": [
+      {
+        "start": 0,
+        "end": 1,
+        "text": "1",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 2,
+        "end": 6,
+        "text": "taza",
+        "labels": [
+          "MEASURE"
+        ]
+      },
+      {
+        "start": 10,
+        "end": 19,
+        "text": "vegetales",
+        "labels": [
+          "FOOD"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 95,
+    "created_at": "2022-05-21T20:34:17.975885Z",
+    "updated_at": "2022-05-21T20:34:17.975927Z",
+    "lead_time": 3.484
+  },
+  {
+    "text": "1 cucharadita de sal",
+    "id": 94,
+    "label": [
+      {
+        "start": 0,
+        "end": 1,
+        "text": "1",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 2,
+        "end": 13,
+        "text": "cucharadita",
+        "labels": [
+          "MEASURE"
+        ]
+      },
+      {
+        "start": 17,
+        "end": 20,
+        "text": "sal",
+        "labels": [
+          "FOOD"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 94,
+    "created_at": "2022-05-21T20:34:12.893294Z",
+    "updated_at": "2022-05-21T20:34:12.893326Z",
+    "lead_time": 3.964
+  },
+  {
+    "text": "2 tazas de leche",
+    "id": 93,
+    "label": [
+      {
+        "start": 0,
+        "end": 1,
+        "text": "2",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 2,
+        "end": 7,
+        "text": "tazas",
+        "labels": [
+          "MEASURE"
+        ]
+      },
+      {
+        "start": 11,
+        "end": 16,
+        "text": "leche",
+        "labels": [
+          "FOOD"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 93,
+    "created_at": "2022-05-21T20:34:07.906841Z",
+    "updated_at": "2022-05-21T20:34:07.906873Z",
+    "lead_time": 3.1
+  },
+  {
+    "text": "4 cucharadas de harina",
+    "id": 92,
+    "label": [
+      {
+        "start": 0,
+        "end": 1,
+        "text": "4",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 2,
+        "end": 12,
+        "text": "cucharadas",
+        "labels": [
+          "MEASURE"
+        ]
+      },
+      {
+        "start": 16,
+        "end": 22,
+        "text": "harina",
+        "labels": [
+          "FOOD"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 92,
+    "created_at": "2022-05-21T20:34:03.701096Z",
+    "updated_at": "2022-05-21T20:34:03.701118Z",
+    "lead_time": 3.627
+  },
+  {
+    "text": "3 cucharadas de mantequilla",
+    "id": 91,
+    "label": [
+      {
+        "start": 0,
+        "end": 1,
+        "text": "3",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 2,
+        "end": 12,
+        "text": "cucharadas",
+        "labels": [
+          "MEASURE"
+        ]
+      },
+      {
+        "start": 16,
+        "end": 27,
+        "text": "mantequilla",
+        "labels": [
+          "FOOD"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 91,
+    "created_at": "2022-05-21T20:33:58.950704Z",
+    "updated_at": "2022-05-21T20:33:58.950772Z",
+    "lead_time": 3.831
+  },
+  {
+    "text": "1 taza de remolachas cocinadas, en cuadritos o puré",
+    "id": 90,
+    "label": [
+      {
+        "start": 0,
+        "end": 1,
+        "text": "1",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 2,
+        "end": 6,
+        "text": "taza",
+        "labels": [
+          "MEASURE"
+        ]
+      },
+      {
+        "start": 10,
+        "end": 20,
+        "text": "remolachas",
+        "labels": [
+          "FOOD"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 90,
+    "created_at": "2022-05-21T20:33:53.479942Z",
+    "updated_at": "2022-05-21T20:33:53.480017Z",
+    "lead_time": 7.115
+  },
+  {
+    "text": "1 taza de vegetales cocinados",
+    "id": 89,
+    "label": [
+      {
+        "start": 0,
+        "end": 1,
+        "text": "1",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 2,
+        "end": 6,
+        "text": "taza",
+        "labels": [
+          "MEASURE"
+        ]
+      },
+      {
+        "start": 10,
+        "end": 19,
+        "text": "vegetales",
+        "labels": [
+          "FOOD"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 89,
+    "created_at": "2022-05-21T20:33:44.511330Z",
+    "updated_at": "2022-05-21T20:33:44.511405Z",
+    "lead_time": 3.749
+  },
+  {
+    "text": "1 cucharadita de sal",
+    "id": 88,
+    "label": [
+      {
+        "start": 0,
+        "end": 1,
+        "text": "1",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 2,
+        "end": 13,
+        "text": "cucharadita",
+        "labels": [
+          "MEASURE"
+        ]
+      },
+      {
+        "start": 17,
+        "end": 20,
+        "text": "sal",
+        "labels": [
+          "FOOD"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 88,
+    "created_at": "2022-05-21T20:33:39.331985Z",
+    "updated_at": "2022-05-21T20:33:39.332117Z",
+    "lead_time": 3.411
+  },
+  {
+    "text": "2 tazas de leche",
+    "id": 87,
+    "label": [
+      {
+        "start": 0,
+        "end": 1,
+        "text": "2",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 2,
+        "end": 7,
+        "text": "tazas",
+        "labels": [
+          "MEASURE"
+        ]
+      },
+      {
+        "start": 11,
+        "end": 16,
+        "text": "leche",
+        "labels": [
+          "FOOD"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 87,
+    "created_at": "2022-05-21T20:33:34.656882Z",
+    "updated_at": "2022-05-21T20:33:34.656915Z",
+    "lead_time": 4.026
+  },
+  {
+    "text": "4 cucharadas de harina",
+    "id": 86,
+    "label": [
+      {
+        "start": 0,
+        "end": 1,
+        "text": "4",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 2,
+        "end": 12,
+        "text": "cucharadas",
+        "labels": [
+          "MEASURE"
+        ]
+      },
+      {
+        "start": 16,
+        "end": 22,
+        "text": "harina",
+        "labels": [
+          "FOOD"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 86,
+    "created_at": "2022-05-21T20:33:29.033192Z",
+    "updated_at": "2022-05-21T20:33:29.033218Z",
+    "lead_time": 4.563
+  },
+  {
+    "text": "3 cucharadas de mantequilla",
+    "id": 85,
+    "label": [
+      {
+        "start": 0,
+        "end": 1,
+        "text": "3",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 2,
+        "end": 12,
+        "text": "cucharadas",
+        "labels": [
+          "MEASURE"
+        ]
+      },
+      {
+        "start": 16,
+        "end": 27,
+        "text": "mantequilla",
+        "labels": [
+          "FOOD"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 85,
+    "created_at": "2022-05-21T20:33:22.894592Z",
+    "updated_at": "2022-05-21T20:33:22.894650Z",
+    "lead_time": 3.441
+  },
+  {
+    "text": "1 taza de calabaza cocinada, en cuadritos o puré",
+    "id": 84,
+    "label": [
+      {
+        "start": 0,
+        "end": 1,
+        "text": "1",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 2,
+        "end": 6,
+        "text": "taza",
+        "labels": [
+          "MEASURE"
+        ]
+      },
+      {
+        "start": 10,
+        "end": 18,
+        "text": "calabaza",
+        "labels": [
+          "FOOD"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 84,
+    "created_at": "2022-05-21T20:33:18.230410Z",
+    "updated_at": "2022-05-21T20:33:18.230507Z",
+    "lead_time": 5.604
+  },
+  {
+    "text": "4 tazas de agua",
+    "id": 83,
+    "label": [
+      {
+        "start": 0,
+        "end": 1,
+        "text": "4",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 2,
+        "end": 7,
+        "text": "tazas",
+        "labels": [
+          "MEASURE"
+        ]
+      },
+      {
+        "start": 11,
+        "end": 15,
+        "text": "agua",
+        "labels": [
+          "FOOD"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 83,
+    "created_at": "2022-05-21T20:32:43.007633Z",
+    "updated_at": "2022-05-21T20:32:43.007663Z",
+    "lead_time": 6.104
+  },
+  {
+    "text": "4 o 5 ramitas de perejil o culantro",
+    "id": 82,
+    "label": [
+      {
+        "start": 4,
+        "end": 5,
+        "text": "5",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 6,
+        "end": 13,
+        "text": "ramitas",
+        "labels": [
+          "MEASURE"
+        ]
+      },
+      {
+        "start": 17,
+        "end": 24,
+        "text": "perejil",
+        "labels": [
+          "FOOD"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 82,
+    "created_at": "2022-05-21T20:32:34.626607Z",
+    "updated_at": "2022-05-21T20:32:34.626639Z",
+    "lead_time": 8.779
+  },
+  {
+    "text": "4 o 5 ajíes verdes pequeños, no picantes",
+    "id": 81,
+    "label": [
+      {
+        "start": 4,
+        "end": 5,
+        "text": "5",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 6,
+        "end": 11,
+        "text": "ajíes",
+        "labels": [
+          "FOOD"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 81,
+    "created_at": "2022-05-21T20:32:18.892921Z",
+    "updated_at": "2022-05-21T20:32:18.893038Z",
+    "lead_time": 7.819
+  },
+  {
+    "text": "4 o 5 tomates maduros, pequeños",
+    "id": 80,
+    "label": [
+      {
+        "start": 4,
+        "end": 5,
+        "text": "5",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 6,
+        "end": 13,
+        "text": "tomates",
+        "labels": [
+          "FOOD"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 80,
+    "created_at": "2022-05-21T20:31:47.597789Z",
+    "updated_at": "2022-05-21T20:31:47.597873Z",
+    "lead_time": 11.714
+  },
+  {
+    "text": "3 o 4 dientes de ajo",
+    "id": 79,
+    "label": [
+      {
+        "start": 4,
+        "end": 5,
+        "text": "4",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 6,
+        "end": 13,
+        "text": "dientes",
+        "labels": [
+          "MEASURE"
+        ]
+      },
+      {
+        "start": 17,
+        "end": 20,
+        "text": "ajo",
+        "labels": [
+          "FOOD"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 79,
+    "created_at": "2022-05-21T20:30:27.093033Z",
+    "updated_at": "2022-05-21T20:31:33.570309Z",
+    "lead_time": 697.21
+  },
+  {
+    "text": "1 cebolla grande o 2 ajos puerros",
+    "id": 78,
+    "label": [
+      {
+        "start": 0,
+        "end": 1,
+        "text": "1",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 2,
+        "end": 9,
+        "text": "cebolla",
+        "labels": [
+          "FOOD"
+        ]
+      },
+      {
+        "start": 19,
+        "end": 20,
+        "text": "2",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 21,
+        "end": 33,
+        "text": "ajos puerros",
+        "labels": [
+          "FOOD"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 78,
+    "created_at": "2022-05-21T20:30:08.848317Z",
+    "updated_at": "2022-05-21T20:30:08.848376Z",
+    "lead_time": 16.058
+  },
+  {
+    "text": "½ libra de carne de res; en Cuba se utilizan, para la sopa, las partes menos blandas de la res, conocidas como carne “de segunda”.",
+    "id": 77,
+    "label": [
+      {
+        "start": 0,
+        "end": 1,
+        "text": "½",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 2,
+        "end": 7,
+        "text": "libra",
+        "labels": [
+          "MEASURE"
+        ]
+      },
+      {
+        "start": 11,
+        "end": 23,
+        "text": "carne de res",
+        "labels": [
+          "FOOD"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 77,
+    "created_at": "2022-05-21T20:29:47.340421Z",
+    "updated_at": "2022-05-21T20:29:47.340450Z",
+    "lead_time": 15.109
+  },
+  {
+    "text": "½ libra de huesos de res, preferiblemente del llamado hueso blanco con tuétano",
+    "id": 76,
+    "label": [
+      {
+        "start": 0,
+        "end": 1,
+        "text": "½",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 2,
+        "end": 7,
+        "text": "libra",
+        "labels": [
+          "MEASURE"
+        ]
+      },
+      {
+        "start": 11,
+        "end": 24,
+        "text": "huesos de res",
+        "labels": [
+          "FOOD"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 76,
+    "created_at": "2022-05-21T20:29:27.180384Z",
+    "updated_at": "2022-05-21T20:29:27.180417Z",
+    "lead_time": 7.155
+  },
+  {
+    "text": "1 cucharada de vino blanco, jerez seco o ron añejo",
+    "id": 75,
+    "label": [
+      {
+        "start": 0,
+        "end": 1,
+        "text": "1",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 2,
+        "end": 11,
+        "text": "cucharada",
+        "labels": [
+          "MEASURE"
+        ]
+      },
+      {
+        "start": 15,
+        "end": 26,
+        "text": "vino blanco",
+        "labels": [
+          "FOOD"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 75,
+    "created_at": "2022-05-21T20:29:17.329868Z",
+    "updated_at": "2022-05-21T20:29:17.329901Z",
+    "lead_time": 10.563
+  },
+  {
+    "text": "4 huevos",
+    "id": 74,
+    "label": [
+      {
+        "start": 0,
+        "end": 1,
+        "text": "4",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 2,
+        "end": 8,
+        "text": "huevos",
+        "labels": [
+          "FOOD"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 74,
+    "created_at": "2022-05-21T20:29:05.547187Z",
+    "updated_at": "2022-05-21T20:29:05.547214Z",
+    "lead_time": 5.948
+  },
+  {
+    "text": "¼ de taza de arroz",
+    "id": 73,
+    "label": [
+      {
+        "start": 0,
+        "end": 1,
+        "text": "¼",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 5,
+        "end": 9,
+        "text": "taza",
+        "labels": [
+          "MEASURE"
+        ]
+      },
+      {
+        "start": 13,
+        "end": 18,
+        "text": "arroz",
+        "labels": [
+          "FOOD"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 73,
+    "created_at": "2022-05-21T20:28:58.283950Z",
+    "updated_at": "2022-05-21T20:28:58.283992Z",
+    "lead_time": 7.675
+  },
+  {
+    "text": "2 tallos o ramitas de apio",
+    "id": 72,
+    "label": [
+      {
+        "start": 0,
+        "end": 1,
+        "text": "2",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 11,
+        "end": 18,
+        "text": "ramitas",
+        "labels": [
+          "MEASURE"
+        ]
+      },
+      {
+        "start": 22,
+        "end": 26,
+        "text": "apio",
+        "labels": [
+          "FOOD"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 72,
+    "created_at": "2022-05-21T20:28:37.886798Z",
+    "updated_at": "2022-05-21T20:28:37.886854Z",
+    "lead_time": 9.134
+  },
+  {
+    "text": "0 ramitas de perejil",
+    "id": 71,
+    "label": [
+      {
+        "start": 0,
+        "end": 1,
+        "text": "0",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 2,
+        "end": 9,
+        "text": "ramitas",
+        "labels": [
+          "MEASURE"
+        ]
+      },
+      {
+        "start": 13,
+        "end": 20,
+        "text": "perejil",
+        "labels": [
+          "FOOD"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 71,
+    "created_at": "2022-05-21T20:28:27.204947Z",
+    "updated_at": "2022-05-21T20:28:27.205068Z",
+    "lead_time": 10.982
+  },
+  {
+    "text": "6 tomates",
+    "id": 70,
+    "label": [
+      {
+        "start": 0,
+        "end": 1,
+        "text": "6",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 2,
+        "end": 9,
+        "text": "tomates",
+        "labels": [
+          "FOOD"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 70,
+    "created_at": "2022-05-21T20:28:14.943402Z",
+    "updated_at": "2022-05-21T20:28:14.943444Z",
+    "lead_time": 3.42
+  },
+  {
+    "text": "3 dientes de ajo",
+    "id": 69,
+    "label": [
+      {
+        "start": 0,
+        "end": 1,
+        "text": "3",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 2,
+        "end": 9,
+        "text": "dientes",
+        "labels": [
+          "MEASURE"
+        ]
+      },
+      {
+        "start": 13,
+        "end": 16,
+        "text": "ajo",
+        "labels": [
+          "FOOD"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 69,
+    "created_at": "2022-05-21T20:28:10.295127Z",
+    "updated_at": "2022-05-21T20:28:10.295185Z",
+    "lead_time": 4.468
+  },
+  {
+    "text": "1 cebolla",
+    "id": 68,
+    "label": [
+      {
+        "start": 0,
+        "end": 1,
+        "text": "1",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 2,
+        "end": 9,
+        "text": "cebolla",
+        "labels": [
+          "FOOD"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 68,
+    "created_at": "2022-05-21T20:28:03.324925Z",
+    "updated_at": "2022-05-21T20:28:03.324990Z",
+    "lead_time": 3.376
+  },
+  {
+    "text": "1 ají grande",
+    "id": 67,
+    "label": [
+      {
+        "start": 0,
+        "end": 1,
+        "text": "1",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 2,
+        "end": 5,
+        "text": "ají",
+        "labels": [
+          "FOOD"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 67,
+    "created_at": "2022-05-21T20:27:55.810127Z",
+    "updated_at": "2022-05-21T20:27:55.810159Z",
+    "lead_time": 3.153
+  },
+  {
+    "text": "6 tazas de agua",
+    "id": 65,
+    "label": [
+      {
+        "start": 0,
+        "end": 1,
+        "text": "6",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 2,
+        "end": 7,
+        "text": "tazas",
+        "labels": [
+          "MEASURE"
+        ]
+      },
+      {
+        "start": 11,
+        "end": 15,
+        "text": "agua",
+        "labels": [
+          "FOOD"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 66,
+    "created_at": "2022-05-21T20:27:49.539930Z",
+    "updated_at": "2022-05-21T20:27:49.539952Z",
+    "lead_time": 6.278
+  },
+  {
+    "text": "2 cucharaditas de sal",
+    "id": 66,
+    "label": [
+      {
+        "start": 0,
+        "end": 1,
+        "text": "2",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 2,
+        "end": 14,
+        "text": "cucharaditas",
+        "labels": [
+          "MEASURE"
+        ]
+      },
+      {
+        "start": 18,
+        "end": 21,
+        "text": "sal",
+        "labels": [
+          "FOOD"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 65,
+    "created_at": "2022-05-21T20:27:41.728298Z",
+    "updated_at": "2022-05-21T20:27:41.728328Z",
+    "lead_time": 5.96
+  },
+  {
+    "text": "1 pollo",
+    "id": 64,
+    "label": [
+      {
+        "start": 0,
+        "end": 1,
+        "text": "1",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 2,
+        "end": 7,
+        "text": "pollo",
+        "labels": [
+          "FOOD"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 64,
+    "created_at": "2022-05-21T20:27:27.965162Z",
+    "updated_at": "2022-05-21T20:27:27.965187Z",
+    "lead_time": 6.324
+  },
+  {
+    "text": "1½ tazas de queso amarillo rallado, molido o cortado en pedacitos muy pequeños",
+    "id": 63,
+    "label": [
+      {
+        "start": 0,
+        "end": 2,
+        "text": "1½",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 3,
+        "end": 8,
+        "text": "tazas",
+        "labels": [
+          "MEASURE"
+        ]
+      },
+      {
+        "start": 12,
+        "end": 26,
+        "text": "queso amarillo",
+        "labels": [
+          "FOOD"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 63,
+    "created_at": "2022-05-21T20:27:18.891202Z",
+    "updated_at": "2022-05-21T20:27:18.891319Z",
+    "lead_time": 20.794
+  },
+  {
+    "text": "1 taza de caldo de res, gallina o pollo",
+    "id": 62,
+    "label": [
+      {
+        "start": 0,
+        "end": 1,
+        "text": "1",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 2,
+        "end": 6,
+        "text": "taza",
+        "labels": [
+          "MEASURE"
+        ]
+      },
+      {
+        "start": 10,
+        "end": 39,
+        "text": "caldo de res, gallina o pollo",
+        "labels": [
+          "FOOD"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 62,
+    "created_at": "2022-05-21T20:26:56.188472Z",
+    "updated_at": "2022-05-21T20:26:56.188553Z",
+    "lead_time": 29.698
+  },
+  {
+    "text": "3 tazas de leche",
+    "id": 61,
+    "label": [
+      {
+        "start": 0,
+        "end": 1,
+        "text": "3",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 2,
+        "end": 7,
+        "text": "tazas",
+        "labels": [
+          "MEASURE"
+        ]
+      },
+      {
+        "start": 11,
+        "end": 16,
+        "text": "leche",
+        "labels": [
+          "FOOD"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 61,
+    "created_at": "2022-05-21T20:26:24.832805Z",
+    "updated_at": "2022-05-21T20:26:24.832834Z",
+    "lead_time": 5.156
+  },
+  {
+    "text": "⅛ de cucharadita de pimienta molida",
+    "id": 60,
+    "label": [
+      {
+        "start": 0,
+        "end": 1,
+        "text": "⅛",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 5,
+        "end": 16,
+        "text": "cucharadita",
+        "labels": [
+          "MEASURE"
+        ]
+      },
+      {
+        "start": 20,
+        "end": 28,
+        "text": "pimienta",
+        "labels": [
+          "FOOD"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 60,
+    "created_at": "2022-05-21T20:26:18.133148Z",
+    "updated_at": "2022-05-21T20:26:18.133173Z",
+    "lead_time": 5.536
+  },
+  {
+    "text": "1 cucharadita de sal",
+    "id": 59,
+    "label": [
+      {
+        "start": 0,
+        "end": 1,
+        "text": "1",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 2,
+        "end": 13,
+        "text": "cucharadita",
+        "labels": [
+          "MEASURE"
+        ]
+      },
+      {
+        "start": 17,
+        "end": 20,
+        "text": "sal",
+        "labels": [
+          "FOOD"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 59,
+    "created_at": "2022-05-21T20:26:10.957698Z",
+    "updated_at": "2022-05-21T20:26:10.957762Z",
+    "lead_time": 6.696
+  },
+  {
+    "text": "4 cucharadas de harina de trigo",
+    "id": 58,
+    "label": [
+      {
+        "start": 0,
+        "end": 1,
+        "text": "4",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 2,
+        "end": 12,
+        "text": "cucharadas",
+        "labels": [
+          "MEASURE"
+        ]
+      },
+      {
+        "start": 16,
+        "end": 31,
+        "text": "harina de trigo",
+        "labels": [
+          "FOOD"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 58,
+    "created_at": "2022-05-21T20:26:02.669166Z",
+    "updated_at": "2022-05-21T20:26:02.669196Z",
+    "lead_time": 10.62
+  },
+  {
+    "text": "1 rebanada de cebolla",
+    "id": 57,
+    "label": [
+      {
+        "start": 0,
+        "end": 1,
+        "text": "1",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 14,
+        "end": 21,
+        "text": "cebolla",
+        "labels": [
+          "FOOD"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 57,
+    "created_at": "2022-05-21T20:25:49.873862Z",
+    "updated_at": "2022-05-21T20:25:49.873966Z",
+    "lead_time": 39.59
+  },
+  {
+    "text": "4 cucharadas de mantequilla",
+    "id": 56,
+    "label": [
+      {
+        "start": 0,
+        "end": 1,
+        "text": "4",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 2,
+        "end": 12,
+        "text": "cucharadas",
+        "labels": [
+          "MEASURE"
+        ]
+      },
+      {
+        "start": 16,
+        "end": 27,
+        "text": "mantequilla",
+        "labels": [
+          "FOOD"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 56,
+    "created_at": "2022-05-21T20:25:08.168459Z",
+    "updated_at": "2022-05-21T20:25:08.168497Z",
+    "lead_time": 8.238
+  },
+  {
+    "text": "2 galones de agua, aproximadamente",
+    "id": 55,
+    "label": [
+      {
+        "start": 0,
+        "end": 1,
+        "text": "2",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 2,
+        "end": 9,
+        "text": "galones",
+        "labels": [
+          "MEASURE"
+        ]
+      },
+      {
+        "start": 13,
+        "end": 17,
+        "text": "agua",
+        "labels": [
+          "FOOD"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 55,
+    "created_at": "2022-05-21T20:24:58.261255Z",
+    "updated_at": "2022-05-21T20:24:58.261287Z",
+    "lead_time": 11.525
+  },
+  {
+    "text": "2½ cucharadas de sal",
+    "id": 54,
+    "label": [
+      {
+        "start": 0,
+        "end": 2,
+        "text": "2½",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 3,
+        "end": 13,
+        "text": "cucharadas",
+        "labels": [
+          "MEASURE"
+        ]
+      },
+      {
+        "start": 17,
+        "end": 20,
+        "text": "sal",
+        "labels": [
+          "FOOD"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 54,
+    "created_at": "2022-05-21T20:24:44.725242Z",
+    "updated_at": "2022-05-21T20:24:44.725277Z",
+    "lead_time": 11.426
+  },
+  {
+    "text": "2 dientes de ajo",
+    "id": 53,
+    "label": [
+      {
+        "start": 0,
+        "end": 1,
+        "text": "2",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 2,
+        "end": 9,
+        "text": "dientes",
+        "labels": [
+          "MEASURE"
+        ]
+      },
+      {
+        "start": 13,
+        "end": 16,
+        "text": "ajo",
+        "labels": [
+          "FOOD"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 53,
+    "created_at": "2022-05-21T20:24:29.872160Z",
+    "updated_at": "2022-05-21T20:24:29.872277Z",
+    "lead_time": 10.647
+  },
+  {
+    "text": "2 cucharadas de manteca de cerdo",
+    "id": 52,
+    "label": [
+      {
+        "start": 0,
+        "end": 1,
+        "text": "2",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 2,
+        "end": 12,
+        "text": "cucharadas",
+        "labels": [
+          "MEASURE"
+        ]
+      },
+      {
+        "start": 16,
+        "end": 23,
+        "text": "manteca",
+        "labels": [
+          "FOOD"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 52,
+    "created_at": "2022-05-21T20:24:16.783779Z",
+    "updated_at": "2022-05-21T20:24:16.783813Z",
+    "lead_time": 46.556
+  },
+  {
+    "text": "2 cucharadas de leche",
+    "id": 51,
+    "label": [
+      {
+        "start": 0,
+        "end": 1,
+        "text": "2",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 2,
+        "end": 12,
+        "text": "cucharadas",
+        "labels": [
+          "MEASURE"
+        ]
+      },
+      {
+        "start": 16,
+        "end": 21,
+        "text": "leche",
+        "labels": [
+          "FOOD"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 51,
+    "created_at": "2022-05-21T20:23:11.322152Z",
+    "updated_at": "2022-05-21T20:23:11.322185Z",
+    "lead_time": 27.041
+  },
+  {
+    "text": "1 taza de puré de tomate o aproximadamente 16 tomates maduros, pequeños",
+    "id": 49,
+    "label": [
+      {
+        "start": 0,
+        "end": 1,
+        "text": "1",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 2,
+        "end": 6,
+        "text": "taza",
+        "labels": [
+          "MEASURE"
+        ]
+      },
+      {
+        "start": 10,
+        "end": 24,
+        "text": "puré de tomate",
+        "labels": [
+          "FOOD"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 49,
+    "created_at": "2022-04-17T08:56:12.838434Z",
+    "updated_at": "2022-04-17T08:56:52.029610Z",
+    "lead_time": 6636.586
+  },
+  {
+    "text": "1 libra de maíz tierno, de la variedad amarilla, rallado o molido4",
+    "id": 50,
+    "label": [
+      {
+        "start": 0,
+        "end": 1,
+        "text": "1",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 2,
+        "end": 7,
+        "text": "libra",
+        "labels": [
+          "MEASURE"
+        ]
+      },
+      {
+        "start": 11,
+        "end": 15,
+        "text": "maíz",
+        "labels": [
+          "FOOD"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 50,
+    "created_at": "2022-04-17T08:56:30.882975Z",
+    "updated_at": "2022-04-17T08:56:30.883005Z",
+    "lead_time": 17.716
+  },
+  {
+    "text": "1 ají verde grande, no picante",
+    "id": 48,
+    "label": [
+      {
+        "start": 0,
+        "end": 1,
+        "text": "1",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 2,
+        "end": 5,
+        "text": "ají",
+        "labels": [
+          "FOOD"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 48,
+    "created_at": "2022-04-17T08:55:19.491277Z",
+    "updated_at": "2022-04-17T08:55:19.491310Z",
+    "lead_time": 15.919
+  },
+  {
+    "text": "4 dientes de ajo",
+    "id": 47,
+    "label": [
+      {
+        "start": 0,
+        "end": 1,
+        "text": "4",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 2,
+        "end": 9,
+        "text": "dientes",
+        "labels": [
+          "MEASURE"
+        ]
+      },
+      {
+        "start": 13,
+        "end": 16,
+        "text": "ajo",
+        "labels": [
+          "FOOD"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 47,
+    "created_at": "2022-04-17T08:55:03.286954Z",
+    "updated_at": "2022-04-17T08:55:03.286984Z",
+    "lead_time": 7.76
+  },
+  {
+    "text": "1 cebolla grande",
+    "id": 46,
+    "label": [
+      {
+        "start": 0,
+        "end": 1,
+        "text": "1",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 2,
+        "end": 9,
+        "text": "cebolla",
+        "labels": [
+          "FOOD"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 46,
+    "created_at": "2022-04-17T08:54:55.193183Z",
+    "updated_at": "2022-04-17T08:54:55.193208Z",
+    "lead_time": 9.146
+  },
+  {
+    "text": "2 cucharadas de manteca de cerdo",
+    "id": 45,
+    "label": [
+      {
+        "start": 0,
+        "end": 1,
+        "text": "2",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 2,
+        "end": 12,
+        "text": "cucharadas",
+        "labels": [
+          "MEASURE"
+        ]
+      },
+      {
+        "start": 16,
+        "end": 23,
+        "text": "manteca",
+        "labels": [
+          "FOOD"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 45,
+    "created_at": "2022-04-17T08:54:45.724455Z",
+    "updated_at": "2022-04-17T08:54:45.724484Z",
+    "lead_time": 14.104
+  },
+  {
+    "text": "2 limones grandes",
+    "id": 44,
+    "label": [
+      {
+        "start": 0,
+        "end": 1,
+        "text": "2",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 2,
+        "end": 9,
+        "text": "limones",
+        "labels": [
+          "FOOD"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 44,
+    "created_at": "2022-04-17T08:54:31.291285Z",
+    "updated_at": "2022-04-17T08:54:31.291337Z",
+    "lead_time": 4.541
+  },
+  {
+    "text": "2 plátanos pintones grandes, de la variedad que se emplea para cocinar",
+    "id": 43,
+    "label": [
+      {
+        "start": 0,
+        "end": 1,
+        "text": "2",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 2,
+        "end": 10,
+        "text": "plátanos",
+        "labels": [
+          "FOOD"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 43,
+    "created_at": "2022-04-17T08:54:26.386956Z",
+    "updated_at": "2022-04-17T08:54:26.386987Z",
+    "lead_time": 9.437
+  },
+  {
+    "text": "½ libra de ñame blanco",
+    "id": 42,
+    "label": [
+      {
+        "start": 0,
+        "end": 1,
+        "text": "½",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 2,
+        "end": 7,
+        "text": "libra",
+        "labels": [
+          "MEASURE"
+        ]
+      },
+      {
+        "start": 11,
+        "end": 15,
+        "text": "ñame",
+        "labels": [
+          "FOOD"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 42,
+    "created_at": "2022-04-17T08:54:16.562362Z",
+    "updated_at": "2022-04-17T08:54:16.562391Z",
+    "lead_time": 15.587
+  },
+  {
+    "text": "½ libra de malanga blanca, yautía o taro",
+    "id": 41,
+    "label": [
+      {
+        "start": 0,
+        "end": 1,
+        "text": "½",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 2,
+        "end": 7,
+        "text": "libra",
+        "labels": [
+          "MEASURE"
+        ]
+      },
+      {
+        "start": 11,
+        "end": 18,
+        "text": "malanga",
+        "labels": [
+          "FOOD"
+        ]
+      },
+      {
+        "start": 27,
+        "end": 33,
+        "text": "yautía",
+        "labels": [
+          "FOOD"
+        ]
+      },
+      {
+        "start": 36,
+        "end": 40,
+        "text": "taro",
+        "labels": [
+          "FOOD"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 41,
+    "created_at": "2022-04-17T08:52:59.496061Z",
+    "updated_at": "2022-04-17T08:52:59.496097Z",
+    "lead_time": 27.527
+  },
+  {
+    "text": "1 libra de boniato o batata",
+    "id": 40,
+    "label": [
+      {
+        "start": 0,
+        "end": 1,
+        "text": "1",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 2,
+        "end": 7,
+        "text": "libra",
+        "labels": [
+          "MEASURE"
+        ]
+      },
+      {
+        "start": 11,
+        "end": 18,
+        "text": "boniato",
+        "labels": [
+          "FOOD"
+        ]
+      },
+      {
+        "start": 21,
+        "end": 27,
+        "text": "batata",
+        "labels": [
+          "FOOD"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 40,
+    "created_at": "2022-04-17T08:52:31.660002Z",
+    "updated_at": "2022-04-17T08:52:31.660037Z",
+    "lead_time": 12.002
+  },
+  {
+    "text": "1 libra de yuca, mandioca o cassava",
+    "id": 39,
+    "label": [
+      {
+        "start": 0,
+        "end": 1,
+        "text": "1",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 2,
+        "end": 7,
+        "text": "libra",
+        "labels": [
+          "MEASURE"
+        ]
+      },
+      {
+        "start": 11,
+        "end": 15,
+        "text": "yuca",
+        "labels": [
+          "FOOD"
+        ]
+      },
+      {
+        "start": 17,
+        "end": 25,
+        "text": "mandioca",
+        "labels": [
+          "FOOD"
+        ]
+      },
+      {
+        "start": 28,
+        "end": 35,
+        "text": "cassava",
+        "labels": [
+          "FOOD"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 39,
+    "created_at": "2022-04-17T08:52:02.640798Z",
+    "updated_at": "2022-04-17T08:52:17.068028Z",
+    "lead_time": 6361.615
+  },
+  {
+    "text": "2 plátanos verdes grandes, de la variedad que se emplea para cocinar",
+    "id": 38,
+    "label": [
+      {
+        "start": 0,
+        "end": 1,
+        "text": "2",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 2,
+        "end": 10,
+        "text": "plátanos",
+        "labels": [
+          "FOOD"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 38,
+    "created_at": "2022-04-17T08:51:44.429521Z",
+    "updated_at": "2022-04-17T08:51:44.429559Z",
+    "lead_time": 8.714
+  },
+  {
+    "text": "1 libra de malanga amarilla, calabaza o zapallo",
+    "id": 37,
+    "label": [
+      {
+        "start": 0,
+        "end": 1,
+        "text": "1",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 2,
+        "end": 7,
+        "text": "libra",
+        "labels": [
+          "MEASURE"
+        ]
+      },
+      {
+        "start": 11,
+        "end": 18,
+        "text": "malanga",
+        "labels": [
+          "FOOD"
+        ]
+      },
+      {
+        "start": 29,
+        "end": 37,
+        "text": "calabaza",
+        "labels": [
+          "FOOD"
+        ]
+      },
+      {
+        "start": 40,
+        "end": 47,
+        "text": "zapallo",
+        "labels": [
+          "FOOD"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 37,
+    "created_at": "2022-04-17T08:51:35.410628Z",
+    "updated_at": "2022-04-17T08:51:35.410660Z",
+    "lead_time": 13.272
+  },
+  {
+    "text": "2 mazorcas de maíz tierno, de la variedad amarilla",
+    "id": 36,
+    "label": [
+      {
+        "start": 0,
+        "end": 1,
+        "text": "2",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 2,
+        "end": 10,
+        "text": "mazorcas",
+        "labels": [
+          "MEASURE"
+        ]
+      },
+      {
+        "start": 14,
+        "end": 18,
+        "text": "maíz",
+        "labels": [
+          "FOOD"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 36,
+    "created_at": "2022-04-17T08:51:21.792302Z",
+    "updated_at": "2022-04-17T08:51:21.792324Z",
+    "lead_time": 8.301
+  },
+  {
+    "text": "1 libra de huesos del costillar del cerdo (en Cuba se les llama agujas de cerdo o puerco)",
+    "id": 35,
+    "label": [
+      {
+        "start": 0,
+        "end": 1,
+        "text": "1",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 2,
+        "end": 7,
+        "text": "libra",
+        "labels": [
+          "MEASURE"
+        ]
+      },
+      {
+        "start": 36,
+        "end": 41,
+        "text": "cerdo",
+        "labels": [
+          "FOOD"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 35,
+    "created_at": "2022-04-17T08:51:13.125328Z",
+    "updated_at": "2022-04-17T08:51:13.125359Z",
+    "lead_time": 14.74
+  },
+  {
+    "text": "1 libra de carne de cerdo",
+    "id": 34,
+    "label": [
+      {
+        "start": 0,
+        "end": 1,
+        "text": "1",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 2,
+        "end": 7,
+        "text": "libra",
+        "labels": [
+          "MEASURE"
+        ]
+      },
+      {
+        "start": 20,
+        "end": 25,
+        "text": "cerdo",
+        "labels": [
+          "FOOD"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 34,
+    "created_at": "2022-04-17T08:50:58.003567Z",
+    "updated_at": "2022-04-17T08:50:58.003680Z",
+    "lead_time": 12.337
+  },
+  {
+    "text": "1 libra de carne de res fresca, propia para sopa",
+    "id": 33,
+    "label": [
+      {
+        "start": 0,
+        "end": 1,
+        "text": "1",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 2,
+        "end": 7,
+        "text": "libra",
+        "labels": [
+          "MEASURE"
+        ]
+      },
+      {
+        "start": 20,
+        "end": 23,
+        "text": "res",
+        "labels": [
+          "FOOD"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 33,
+    "created_at": "2022-04-17T08:50:45.357862Z",
+    "updated_at": "2022-04-17T08:50:45.357969Z",
+    "lead_time": 9.194
+  },
+  {
+    "text": "½ gallina grande",
+    "id": 32,
+    "label": [
+      {
+        "start": 0,
+        "end": 1,
+        "text": "½",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 2,
+        "end": 9,
+        "text": "gallina",
+        "labels": [
+          "MEASURE"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 32,
+    "created_at": "2022-04-17T08:50:35.829032Z",
+    "updated_at": "2022-04-17T08:50:35.829055Z",
+    "lead_time": 8.121
+  },
+  {
+    "text": "½ libra de carne de res salada y seca (tasajo)",
+    "id": 31,
+    "label": [
+      {
+        "start": 0,
+        "end": 1,
+        "text": "½",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 2,
+        "end": 7,
+        "text": "libra",
+        "labels": [
+          "MEASURE"
+        ]
+      },
+      {
+        "start": 20,
+        "end": 23,
+        "text": "res",
+        "labels": [
+          "FOOD"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 31,
+    "created_at": "2022-04-17T08:50:27.387945Z",
+    "updated_at": "2022-04-17T08:50:27.387975Z",
+    "lead_time": 18.392
+  },
+  {
+    "text": "4 tazas de agua",
+    "id": 30,
+    "label": [
+      {
+        "start": 0,
+        "end": 1,
+        "text": "4",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 2,
+        "end": 7,
+        "text": "tazas",
+        "labels": [
+          "MEASURE"
+        ]
+      },
+      {
+        "start": 11,
+        "end": 15,
+        "text": "agua",
+        "labels": [
+          "FOOD"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 30,
+    "created_at": "2022-04-17T08:49:48.134492Z",
+    "updated_at": "2022-04-17T08:49:48.134514Z",
+    "lead_time": 12.605
+  },
+  {
+    "text": "4 o 5 ramitas de perejil o culantro",
+    "id": 29,
+    "label": [
+      {
+        "start": 4,
+        "end": 5,
+        "text": "5",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 6,
+        "end": 13,
+        "text": "ramitas",
+        "labels": [
+          "MEASURE"
+        ]
+      },
+      {
+        "start": 17,
+        "end": 24,
+        "text": "perejil",
+        "labels": [
+          "FOOD"
+        ]
+      },
+      {
+        "start": 27,
+        "end": 35,
+        "text": "culantro",
+        "labels": [
+          "FOOD"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 29,
+    "created_at": "2022-04-17T08:49:35.215792Z",
+    "updated_at": "2022-04-17T08:49:35.215821Z",
+    "lead_time": 19.664
+  },
+  {
+    "text": "4 o 5 ajíes verdes pequeños, no picantes",
+    "id": 28,
+    "label": [
+      {
+        "start": 4,
+        "end": 5,
+        "text": "5",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 6,
+        "end": 11,
+        "text": "ajíes",
+        "labels": [
+          "FOOD"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 28,
+    "created_at": "2022-04-17T08:49:15.227457Z",
+    "updated_at": "2022-04-17T08:49:15.227488Z",
+    "lead_time": 19.452
+  },
+  {
+    "text": "4 o 5 tomates maduros, pequeños",
+    "id": 27,
+    "label": [
+      {
+        "start": 4,
+        "end": 5,
+        "text": "5",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 6,
+        "end": 13,
+        "text": "tomates",
+        "labels": [
+          "FOOD"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 27,
+    "created_at": "2022-04-17T08:48:55.402156Z",
+    "updated_at": "2022-04-17T08:48:55.402198Z",
+    "lead_time": 9.615
+  },
+  {
+    "text": "3 o 4 dientes de ajo",
+    "id": 26,
+    "label": [
+      {
+        "start": 4,
+        "end": 5,
+        "text": "4",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 6,
+        "end": 13,
+        "text": "dientes",
+        "labels": [
+          "MEASURE"
+        ]
+      },
+      {
+        "start": 17,
+        "end": 20,
+        "text": "ajo",
+        "labels": [
+          "FOOD"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 26,
+    "created_at": "2022-04-17T08:48:45.412898Z",
+    "updated_at": "2022-04-17T08:48:45.412930Z",
+    "lead_time": 17.481
+  },
+  {
+    "text": "1 cebolla grande o 2 ajos puerros",
+    "id": 25,
+    "label": [
+      {
+        "start": 0,
+        "end": 1,
+        "text": "1",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 2,
+        "end": 9,
+        "text": "cebolla",
+        "labels": [
+          "FOOD"
+        ]
+      },
+      {
+        "start": 19,
+        "end": 20,
+        "text": "2",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 21,
+        "end": 33,
+        "text": "ajos puerros",
+        "labels": [
+          "FOOD"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 25,
+    "created_at": "2022-04-17T08:48:27.484664Z",
+    "updated_at": "2022-04-17T08:48:27.484715Z",
+    "lead_time": 18.113
+  },
+  {
+    "text": "2 libras de pescado",
+    "id": 24,
+    "label": [
+      {
+        "start": 0,
+        "end": 1,
+        "text": "2",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 2,
+        "end": 8,
+        "text": "libras",
+        "labels": [
+          "MEASURE"
+        ]
+      },
+      {
+        "start": 12,
+        "end": 19,
+        "text": "pescado",
+        "labels": [
+          "FOOD"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 24,
+    "created_at": "2022-04-17T08:48:09.026660Z",
+    "updated_at": "2022-04-17T08:48:09.026688Z",
+    "lead_time": 15.616
+  },
+  {
+    "text": "4 yemas de huevos o 4 cucharadas de queso rallado",
+    "id": 23,
+    "label": [
+      {
+        "start": 0,
+        "end": 1,
+        "text": "4",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 11,
+        "end": 17,
+        "text": "huevos",
+        "labels": [
+          "FOOD"
+        ]
+      },
+      {
+        "start": 20,
+        "end": 21,
+        "text": "4",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 22,
+        "end": 32,
+        "text": "cucharadas",
+        "labels": [
+          "MEASURE"
+        ]
+      },
+      {
+        "start": 36,
+        "end": 41,
+        "text": "queso",
+        "labels": [
+          "FOOD"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 23,
+    "created_at": "2022-04-17T08:39:36.319786Z",
+    "updated_at": "2022-04-17T08:39:36.319823Z",
+    "lead_time": 48.965
+  },
+  {
+    "text": "½ taza de cebollinos tiernos",
+    "id": 22,
+    "label": [
+      {
+        "start": 0,
+        "end": 1,
+        "text": "½",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 2,
+        "end": 6,
+        "text": "taza",
+        "labels": [
+          "MEASURE"
+        ]
+      },
+      {
+        "start": 10,
+        "end": 20,
+        "text": "cebollinos",
+        "labels": [
+          "FOOD"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 22,
+    "created_at": "2022-04-17T08:38:47.029286Z",
+    "updated_at": "2022-04-17T08:38:47.029313Z",
+    "lead_time": 17.295
+  },
+  {
+    "text": "1 cucharada de mantequilla",
+    "id": 21,
+    "label": [
+      {
+        "start": 0,
+        "end": 1,
+        "text": "1",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 2,
+        "end": 11,
+        "text": "cucharada",
+        "labels": [
+          "MEASURE"
+        ]
+      },
+      {
+        "start": 15,
+        "end": 26,
+        "text": "mantequilla",
+        "labels": [
+          "FOOD"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 21,
+    "created_at": "2022-04-17T08:38:29.356831Z",
+    "updated_at": "2022-04-17T08:38:29.356956Z",
+    "lead_time": 22.426
+  },
+  {
+    "text": "1 taza de papas, zanahorias u otro vegetal según la época del año",
+    "id": 20,
+    "label": [
+      {
+        "start": 0,
+        "end": 1,
+        "text": "1",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 2,
+        "end": 6,
+        "text": "taza",
+        "labels": [
+          "MEASURE"
+        ]
+      },
+      {
+        "start": 10,
+        "end": 15,
+        "text": "papas",
+        "labels": [
+          "FOOD"
+        ]
+      },
+      {
+        "start": 17,
+        "end": 27,
+        "text": "zanahorias",
+        "labels": [
+          "FOOD"
+        ]
+      },
+      {
+        "start": 35,
+        "end": 42,
+        "text": "vegetal",
+        "labels": [
+          "FOOD"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 20,
+    "created_at": "2022-04-17T08:15:31.955114Z",
+    "updated_at": "2022-04-17T08:15:31.955154Z",
+    "lead_time": 19.141
+  },
+  {
+    "text": "3 latas de agua",
+    "id": 19,
+    "label": [
+      {
+        "start": 0,
+        "end": 1,
+        "text": "3",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 11,
+        "end": 15,
+        "text": "agua",
+        "labels": [
+          "FOOD"
+        ]
+      },
+      {
+        "start": 2,
+        "end": 7,
+        "text": "latas",
+        "labels": [
+          "MEASURE"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 19,
+    "created_at": "2022-04-17T08:15:11.472107Z",
+    "updated_at": "2022-04-17T08:15:11.472190Z",
+    "lead_time": 16.265
+  },
+  {
+    "text": "1 lata de sopa de crema de apio o pollo",
+    "id": 18,
+    "label": [
+      {
+        "start": 0,
+        "end": 1,
+        "text": "1",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 2,
+        "end": 6,
+        "text": "lata",
+        "labels": [
+          "MEASURE"
+        ]
+      },
+      {
+        "start": 10,
+        "end": 14,
+        "text": "sopa",
+        "labels": [
+          "FOOD"
+        ]
+      },
+      {
+        "start": 27,
+        "end": 31,
+        "text": "apio",
+        "labels": [
+          "FOOD"
+        ]
+      },
+      {
+        "start": 34,
+        "end": 39,
+        "text": "pollo",
+        "labels": [
+          "FOOD"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 18,
+    "created_at": "2022-04-17T07:55:05.920930Z",
+    "updated_at": "2022-04-17T07:55:05.920964Z",
+    "lead_time": 210.631
+  },
+  {
+    "text": "¼ de cucharadita de pimienta",
+    "id": 17,
+    "label": [
+      {
+        "start": 0,
+        "end": 1,
+        "text": "¼",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 20,
+        "end": 28,
+        "text": "pimienta",
+        "labels": [
+          "FOOD"
+        ]
+      },
+      {
+        "start": 5,
+        "end": 16,
+        "text": "cucharadita",
+        "labels": [
+          "MEASURE"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 17,
+    "created_at": "2022-04-17T07:51:07.172778Z",
+    "updated_at": "2022-04-17T07:51:33.402967Z",
+    "lead_time": 2717.94
+  },
+  {
+    "text": "1 cucharada de sal",
+    "id": 16,
+    "label": [
+      {
+        "start": 0,
+        "end": 1,
+        "text": "1",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 2,
+        "end": 11,
+        "text": "cucharada",
+        "labels": [
+          "MEASURE"
+        ]
+      },
+      {
+        "start": 15,
+        "end": 18,
+        "text": "sal",
+        "labels": [
+          "FOOD"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 16,
+    "created_at": "2022-04-17T07:50:34.929650Z",
+    "updated_at": "2022-04-17T07:50:34.929689Z",
+    "lead_time": 17.931
+  },
+  {
+    "text": "1 libra de masa de langosta o cangrejo",
+    "id": 15,
+    "label": [
+      {
+        "start": 0,
+        "end": 1,
+        "text": "1",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 2,
+        "end": 7,
+        "text": "libra",
+        "labels": [
+          "MEASURE"
+        ]
+      },
+      {
+        "start": 19,
+        "end": 27,
+        "text": "langosta",
+        "labels": [
+          "FOOD"
+        ]
+      },
+      {
+        "start": 30,
+        "end": 38,
+        "text": "cangrejo",
+        "labels": [
+          "FOOD"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 15,
+    "created_at": "2022-04-17T07:49:01.174572Z",
+    "updated_at": "2022-04-17T07:49:36.579760Z",
+    "lead_time": 2601.126
+  },
+  {
+    "text": "1 libra de camarones",
+    "id": 14,
+    "label": [
+      {
+        "start": 0,
+        "end": 1,
+        "text": "1",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 2,
+        "end": 7,
+        "text": "libra",
+        "labels": [
+          "MEASURE"
+        ]
+      },
+      {
+        "start": 11,
+        "end": 20,
+        "text": "camarones",
+        "labels": [
+          "FOOD"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 14,
+    "created_at": "2022-04-17T07:48:27.399429Z",
+    "updated_at": "2022-04-17T07:48:27.399517Z",
+    "lead_time": 9.521
+  },
+  {
+    "text": "1 libra de almejas",
+    "id": 13,
+    "label": [
+      {
+        "start": 0,
+        "end": 1,
+        "text": "1",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 2,
+        "end": 7,
+        "text": "libra",
+        "labels": [
+          "MEASURE"
+        ]
+      },
+      {
+        "start": 11,
+        "end": 18,
+        "text": "almejas",
+        "labels": [
+          "FOOD"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 13,
+    "created_at": "2022-04-17T07:48:14.032527Z",
+    "updated_at": "2022-04-17T07:48:14.032553Z",
+    "lead_time": 14.58
+  },
+  {
+    "text": "1 libra de aguja, peto o emperador",
+    "id": 12,
+    "label": [
+      {
+        "start": 0,
+        "end": 1,
+        "text": "1",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 2,
+        "end": 7,
+        "text": "libra",
+        "labels": [
+          "MEASURE"
+        ]
+      },
+      {
+        "start": 11,
+        "end": 16,
+        "text": "aguja",
+        "labels": [
+          "FOOD"
+        ]
+      },
+      {
+        "start": 18,
+        "end": 22,
+        "text": "peto",
+        "labels": [
+          "FOOD"
+        ]
+      },
+      {
+        "start": 25,
+        "end": 34,
+        "text": "emperador",
+        "labels": [
+          "FOOD"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 12,
+    "created_at": "2022-04-17T07:47:56.846745Z",
+    "updated_at": "2022-04-17T07:47:56.846782Z",
+    "lead_time": 32.466
+  },
+  {
+    "text": "1 taza de vino blanco",
+    "id": 11,
+    "label": [
+      {
+        "start": 0,
+        "end": 1,
+        "text": "1",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 2,
+        "end": 6,
+        "text": "taza",
+        "labels": [
+          "MEASURE"
+        ]
+      },
+      {
+        "start": 10,
+        "end": 21,
+        "text": "vino blanco",
+        "labels": [
+          "FOOD"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 11,
+    "created_at": "2022-04-17T07:47:19.641310Z",
+    "updated_at": "2022-04-17T07:47:19.641351Z",
+    "lead_time": 12.374
+  },
+  {
+    "text": "1 taza de agua",
+    "id": 10,
+    "label": [
+      {
+        "start": 0,
+        "end": 1,
+        "text": "1",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 2,
+        "end": 6,
+        "text": "taza",
+        "labels": [
+          "MEASURE"
+        ]
+      },
+      {
+        "start": 10,
+        "end": 14,
+        "text": "agua",
+        "labels": [
+          "FOOD"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 10,
+    "created_at": "2022-04-17T07:47:05.646454Z",
+    "updated_at": "2022-04-17T07:47:05.646741Z",
+    "lead_time": 13.333
+  },
+  {
+    "text": "¼ de cucharadita de orégano",
+    "id": 8,
+    "label": [
+      {
+        "start": 0,
+        "end": 1,
+        "text": "¼",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 5,
+        "end": 16,
+        "text": "cucharadita",
+        "labels": [
+          "MEASURE"
+        ]
+      },
+      {
+        "start": 20,
+        "end": 27,
+        "text": "orégano",
+        "labels": [
+          "FOOD"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 9,
+    "created_at": "2022-04-17T07:44:59.462795Z",
+    "updated_at": "2022-04-17T07:44:59.462860Z",
+    "lead_time": 1.495
+  },
+  {
+    "text": "1 ramita de albahaca",
+    "id": 9,
+    "annotator": 2,
+    "annotation_id": 8,
+    "created_at": "2022-04-17T07:44:55.671726Z",
+    "updated_at": "2022-04-17T07:44:55.671760Z",
+    "lead_time": 6.642
+  },
+  {
+    "text": "1 hoja de laurel",
+    "id": 7,
+    "label": [
+      {
+        "start": 0,
+        "end": 1,
+        "text": "1",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 2,
+        "end": 6,
+        "text": "hoja",
+        "labels": [
+          "MEASURE"
+        ]
+      },
+      {
+        "start": 10,
+        "end": 16,
+        "text": "laurel",
+        "labels": [
+          "FOOD"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 7,
+    "created_at": "2022-04-17T07:37:15.280870Z",
+    "updated_at": "2022-04-17T07:37:15.280901Z",
+    "lead_time": 19.552
+  },
+  {
+    "text": "1 lata de salsa de tomate",
+    "id": 6,
+    "label": [
+      {
+        "start": 0,
+        "end": 1,
+        "text": "1",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 2,
+        "end": 6,
+        "text": "lata",
+        "labels": [
+          "MEASURE"
+        ]
+      },
+      {
+        "start": 10,
+        "end": 25,
+        "text": "salsa de tomate",
+        "labels": [
+          "FOOD"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 6,
+    "created_at": "2022-04-17T07:36:49.219663Z",
+    "updated_at": "2022-04-17T07:36:49.219689Z",
+    "lead_time": 60.196
+  },
+  {
+    "text": "1 libra de tomate natural",
+    "id": 5,
+    "label": [
+      {
+        "start": 0,
+        "end": 1,
+        "text": "1",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 2,
+        "end": 7,
+        "text": "libra",
+        "labels": [
+          "MEASURE"
+        ]
+      },
+      {
+        "start": 11,
+        "end": 17,
+        "text": "tomate",
+        "labels": [
+          "FOOD"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 5,
+    "created_at": "2022-04-17T07:35:44.121141Z",
+    "updated_at": "2022-04-17T07:35:44.121167Z",
+    "lead_time": 15.677
+  },
+  {
+    "text": "1 taza de ají picadito",
+    "id": 4,
+    "annotator": 2,
+    "annotation_id": 4,
+    "created_at": "2022-04-17T07:34:51.911871Z",
+    "updated_at": "2022-04-17T07:34:51.911899Z",
+    "lead_time": 1.354
+  },
+  {
+    "text": "1 taza de cebolla picadita",
+    "id": 3,
+    "label": [
+      {
+        "start": 0,
+        "end": 1,
+        "text": "1",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 2,
+        "end": 6,
+        "text": "taza",
+        "labels": [
+          "MEASURE"
+        ]
+      },
+      {
+        "start": 10,
+        "end": 17,
+        "text": "cebolla",
+        "labels": [
+          "FOOD"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 3,
+    "created_at": "2022-04-17T07:34:49.456504Z",
+    "updated_at": "2022-04-17T07:34:49.456577Z",
+    "lead_time": 2.38
+  },
+  {
+    "text": "2 dientes de ajo",
+    "id": 2,
+    "label": [
+      {
+        "start": 2,
+        "end": 9,
+        "text": "dientes",
+        "labels": [
+          "MEASURE"
+        ]
+      },
+      {
+        "start": 0,
+        "end": 1,
+        "text": "2",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 13,
+        "end": 16,
+        "text": "ajo",
+        "labels": [
+          "FOOD"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 2,
+    "created_at": "2022-04-17T07:34:43.710697Z",
+    "updated_at": "2022-04-17T07:34:43.710727Z",
+    "lead_time": 3.426
+  },
+  {
+    "text": "¼ de taza de aceite",
+    "id": 1,
+    "label": [
+      {
+        "start": 0,
+        "end": 1,
+        "text": "¼",
+        "labels": [
+          "AMOUNT"
+        ]
+      },
+      {
+        "start": 5,
+        "end": 9,
+        "text": "taza",
+        "labels": [
+          "MEASURE"
+        ]
+      },
+      {
+        "start": 13,
+        "end": 19,
+        "text": "aceite",
+        "labels": [
+          "FOOD"
+        ]
+      }
+    ],
+    "annotator": 2,
+    "annotation_id": 1,
+    "created_at": "2022-04-17T07:29:34.678647Z",
+    "updated_at": "2022-04-17T07:34:31.968137Z",
+    "lead_time": 1696.513
+  }
+]
