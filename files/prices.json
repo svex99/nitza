@@ -1,0 +1,2067 @@
+[
+	{
+		"food": "Vita Nuova",
+		"measure": "cucharada",
+		"fprice": 0,
+		"iprice": 5.5
+	},
+	{
+		"food": "aceite",
+		"measure": "cucharada",
+		"fprice": 0,
+		"iprice": 6
+	},
+	{
+		"food": "aceite",
+		"measure": "libra",
+		"fprice": 0,
+		"iprice": 300
+	},
+	{
+		"food": "aceite",
+		"measure": "taza",
+		"fprice": 0,
+		"iprice": 150
+	},
+	{
+		"food": "aceite de oliva",
+		"measure": "cucharada",
+		"fprice": 0,
+		"iprice": 16
+	},
+	{
+		"food": "aceite de oliva",
+		"measure": "taza",
+		"fprice": 0,
+		"iprice": 405
+	},
+	{
+		"food": "aceitunas",
+		"measure": "cucharada",
+		"fprice": 0,
+		"iprice": 10
+	},
+	{
+		"food": "aceitunas",
+		"measure": "taza",
+		"fprice": 0,
+		"iprice": 100
+	},
+	{
+		"food": "aceitunas",
+		"measure": "unidad",
+		"fprice": 0,
+		"iprice": 3
+	},
+	{
+		"food": "aceitunas rellenas",
+		"measure": "pomo",
+		"fprice": 0,
+		"iprice": 243
+	},
+	{
+		"food": "aceitunas rellenas",
+		"measure": "unidad",
+		"fprice": 0,
+		"iprice": 5
+	},
+	{
+		"food": "acelgas",
+		"measure": "taza",
+		"fprice": 4,
+		"iprice": 0
+	},
+	{
+		"food": "acelgas",
+		"measure": "unidad",
+		"fprice": 4,
+		"iprice": 0
+	},
+	{
+		"food": "aguacates",
+		"measure": "unidad",
+		"fprice": 0,
+		"iprice": 30
+	},
+	{
+		"food": "ajo",
+		"measure": "diente",
+		"fprice": 0,
+		"iprice": 1
+	},
+	{
+		"food": "ajo en polvo",
+		"measure": "cucharada",
+		"fprice": 0,
+		"iprice": 5
+	},
+	{
+		"food": "ajo puerro",
+		"measure": "unidad",
+		"fprice": 0,
+		"iprice": 5
+	},
+	{
+		"food": "ajonjolí",
+		"measure": "taza",
+		"fprice": 0,
+		"iprice": 200
+	},
+	{
+		"food": "ají",
+		"measure": "cucharada",
+		"fprice": 0,
+		"iprice": 1
+	},
+	{
+		"food": "ají",
+		"measure": "taza",
+		"fprice": 0,
+		"iprice": 10
+	},
+	{
+		"food": "ají",
+		"measure": "unidad",
+		"fprice": 0,
+		"iprice": 2
+	},
+	{
+		"food": "albahaca",
+		"measure": "rama",
+		"fprice": 0,
+		"iprice": 1
+	},
+	{
+		"food": "alcaparra",
+		"measure": "cucharada",
+		"fprice": 0,
+		"iprice": 20
+	},
+	{
+		"food": "alcaparrado",
+		"measure": "taza",
+		"fprice": 0,
+		"iprice": 190
+	},
+	{
+		"food": "almejas",
+		"measure": "libra",
+		"fprice": 0,
+		"iprice": 410
+	},
+	{
+		"food": "almendra salada",
+		"measure": "lata",
+		"fprice": 0,
+		"iprice": 360
+	},
+	{
+		"food": "almendras",
+		"measure": "taza",
+		"fprice": 0,
+		"iprice": 500
+	},
+	{
+		"food": "almíbar",
+		"measure": "cucharada",
+		"fprice": 0,
+		"iprice": 1
+	},
+	{
+		"food": "altea",
+		"measure": "pastilla",
+		"fprice": -1,
+		"iprice": 3
+	},
+	{
+		"food": "anchoas",
+		"measure": "unidad",
+		"fprice": 0,
+		"iprice": 90
+	},
+	{
+		"food": "anís",
+		"measure": "cucharada",
+		"fprice": 0,
+		"iprice": 15
+	},
+	{
+		"food": "apio",
+		"measure": "rama",
+		"fprice": 0,
+		"iprice": 1
+	},
+	{
+		"food": "apio",
+		"measure": "tallo",
+		"fprice": 0,
+		"iprice": 1
+	},
+	{
+		"food": "apio",
+		"measure": "taza",
+		"fprice": 0,
+		"iprice": 5
+	},
+	{
+		"food": "arroz",
+		"measure": "libra",
+		"fprice": 0,
+		"iprice": 35
+	},
+	{
+		"food": "arroz",
+		"measure": "taza",
+		"fprice": 0,
+		"iprice": 35
+	},
+	{
+		"food": "arroz amarillo",
+		"measure": "taza",
+		"fprice": 0,
+		"iprice": 75
+	},
+	{
+		"food": "avena",
+		"measure": "cucharada",
+		"fprice": 0,
+		"iprice": 4
+	},
+	{
+		"food": "azafrán",
+		"measure": "cucharada",
+		"fprice": 0,
+		"iprice": 3
+	},
+	{
+		"food": "azúcar",
+		"measure": "cucharada",
+		"fprice": 0,
+		"iprice": 1
+	},
+	{
+		"food": "azúcar",
+		"measure": "taza",
+		"fprice": 0,
+		"iprice": 17
+	},
+	{
+		"food": "azúcar blanca",
+		"measure": "cucharada",
+		"fprice": 0,
+		"iprice": 1
+	},
+	{
+		"food": "azúcar blanca",
+		"measure": "libra",
+		"fprice": 0,
+		"iprice": 35
+	},
+	{
+		"food": "azúcar blanca",
+		"measure": "taza",
+		"fprice": 0,
+		"iprice": 17
+	},
+	{
+		"food": "azúcar prieta",
+		"measure": "cucharada",
+		"fprice": 0,
+		"iprice": 0.75
+	},
+	{
+		"food": "azúcar prieta",
+		"measure": "taza",
+		"fprice": 0,
+		"iprice": 13
+	},
+	{
+		"food": "beicon",
+		"measure": "lasca",
+		"fprice": 0,
+		"iprice": 25
+	},
+	{
+		"food": "beicon",
+		"measure": "libra",
+		"fprice": 0,
+		"iprice": 523
+	},
+	{
+		"food": "berenjena",
+		"measure": "unidad",
+		"fprice": 0,
+		"iprice": 10
+	},
+	{
+		"food": "berro",
+		"measure": "unidad",
+		"fprice": 4,
+		"iprice": 0
+	},
+	{
+		"food": "bicarbonato",
+		"measure": "cucharada",
+		"fprice": 0,
+		"iprice": 0
+	},
+	{
+		"food": "bijol",
+		"measure": "cucharada",
+		"fprice": 0,
+		"iprice": 2
+	},
+	{
+		"food": "bistecs de palomilla",
+		"measure": "unidad",
+		"fprice": 0,
+		"iprice": 75
+	},
+	{
+		"food": "boniato",
+		"measure": "libra",
+		"fprice": 0,
+		"iprice": 15
+	},
+
+	{
+		"food": "butifarras",
+		"measure": "libra",
+		"fprice": 0,
+		"iprice": 40
+	},
+	{
+		"food": "cabeza de ajo",
+		"measure": "unidad",
+		"fprice": 0,
+		"iprice": 15
+	},
+	{
+		"food": "cabeza de pescado",
+		"measure": "unidad",
+		"fprice": 0,
+		"iprice": 50
+	},
+	{
+		"food": "café",
+		"measure": "cucharada",
+		"fprice": 0,
+		"iprice": 1
+	},
+	{
+		"food": "calabaza",
+		"measure": "libra",
+		"fprice": 0,
+		"iprice": 10
+	},
+	{
+		"food": "calabaza",
+		"measure": "taza",
+		"fprice": 0,
+		"iprice": 8
+	},
+	{
+		"food": "caldo",
+		"measure": "taza",
+		"fprice": 0,
+		"iprice": 100
+	},
+	{
+		"food": "caldo de lentejas",
+		"measure": "taza",
+		"fprice": 0,
+		"iprice": 80
+	},
+	{
+		"food": "caldo de pescado",
+		"measure": "taza",
+		"fprice": 0,
+		"iprice": 100
+	},
+	{
+		"food": "caldo de pollo",
+		"measure": "taza",
+		"fprice": 0,
+		"iprice": 100
+	},
+	{
+		"food": "caldo de res",
+		"measure": "taza",
+		"fprice": 0,
+		"iprice": 50
+	},
+	{
+		"food": "camarones",
+		"measure": "libra",
+		"fprice": 0,
+		"iprice": 200
+	},
+	{
+		"food": "canela",
+		"measure": "cucharada",
+		"fprice": 0,
+		"iprice": 5
+	},
+	{
+		"food": "canela",
+		"measure": "pedazo",
+		"fprice": 0,
+		"iprice": 7
+	},
+	{
+		"food": "canela",
+		"measure": "rama",
+		"fprice": 0,
+		"iprice": 15
+	},
+	{
+		"food": "canela",
+		"measure": "unidad",
+		"fprice": 0,
+		"iprice": 15
+	},
+	{
+		"food": "cangrejos",
+		"measure": "unidad",
+		"fprice": 0,
+		"iprice": 10
+	},
+	{
+		"food": "carne de ave",
+		"measure": "libra",
+		"fprice": 0,
+		"iprice": 172
+	},
+	{
+		"food": "carne de cerdo",
+		"measure": "lata",
+		"fprice": 0,
+		"iprice": 250
+	},
+	{
+		"food": "carne de cerdo",
+		"measure": "libra",
+		"fprice": 0,
+		"iprice": 250
+	},
+	{
+		"food": "carne de res",
+		"measure": "lata",
+		"fprice": 0,
+		"iprice": 200
+	},
+	{
+		"food": "carne de res",
+		"measure": "libra",
+		"fprice": 0,
+		"iprice": 150
+	},
+	{
+		"food": "carne de res",
+		"measure": "taza",
+		"fprice": 0,
+		"iprice": 100
+	},
+	{
+		"food": "carne en conserva",
+		"measure": "lata",
+		"fprice": 0,
+		"iprice": 100
+	},
+	{
+		"food": "cebolla",
+		"measure": "cucharada",
+		"fprice": 0,
+		"iprice": 2.5
+	},
+	{
+		"food": "cebolla",
+		"measure": "libra",
+		"fprice": 0,
+		"iprice": 60
+	},
+	{
+		"food": "cebolla",
+		"measure": "pedazo",
+		"fprice": 0,
+		"iprice": 5
+	},
+	{
+		"food": "cebolla",
+		"measure": "rebanada",
+		"fprice": 0,
+		"iprice": 2.5
+	},
+	{
+		"food": "cebolla",
+		"measure": "rueda",
+		"fprice": 0,
+		"iprice": 2.5
+	},
+	{
+		"food": "cebolla",
+		"measure": "taza",
+		"fprice": 0,
+		"iprice": 30
+	},
+	{
+		"food": "cebolla",
+		"measure": "unidad",
+		"fprice": 0,
+		"iprice": 10
+	},
+	{
+		"food": "cebollinos",
+		"measure": "taza",
+		"fprice": 0,
+		"iprice": 5
+	},
+	{
+		"food": "champiñones",
+		"measure": "taza",
+		"fprice": 0,
+		"iprice": 222
+	},
+	{
+		"food": "chayotes",
+		"measure": "unidad",
+		"fprice": 0,
+		"iprice": 50
+	},
+	{
+		"food": "chocolate",
+		"measure": "pastilla",
+		"fprice": 0,
+		"iprice": 15
+	},
+	{
+		"food": "chorizo",
+		"measure": "pedazo",
+		"fprice": 0,
+		"iprice": 40
+	},
+	{
+		"food": "chorizo",
+		"measure": "unidad",
+		"fprice": 0,
+		"iprice": 40
+	},
+	{
+		"food": "chícharos",
+		"measure": "taza",
+		"fprice": 0,
+		"iprice": 5
+	},
+	{
+		"food": "clavos de olor",
+		"measure": "cucharada",
+		"fprice": 0,
+		"iprice": 3
+	},
+	{
+		"food": "clavos de olor",
+		"measure": "unidad",
+		"fprice": 0,
+		"iprice": 10
+	},
+	{
+		"food": "coco",
+		"measure": "onza",
+		"fprice": 0,
+		"iprice": 1
+	},
+	{
+		"food": "coco",
+		"measure": "taza",
+		"fprice": 0,
+		"iprice": 5
+	},
+	{
+		"food": "coco",
+		"measure": "unidad",
+		"fprice": 0,
+		"iprice": 5
+	},
+	{
+		"food": "cóctel de frutas",
+		"measure": "litro",
+		"fprice": 0,
+		"iprice": 125
+	},
+	{
+		"food": "cóctel de frutas",
+		"measure": "lata",
+		"fprice": 0,
+		"iprice": 250
+	},
+	{
+		"food": "col",
+		"measure": "taza",
+		"fprice": 0,
+		"iprice": 4
+	},
+	{
+		"food": "col",
+		"measure": "unidad",
+		"fprice": 0,
+		"iprice": 20
+	},
+	{
+		"food": "coliflor",
+		"measure": "unidad",
+		"fprice": 0,
+		"iprice": 10
+	},
+	{
+		"food": "colorante",
+		"measure": "gota",
+		"fprice": 0,
+		"iprice": 1
+	},
+	{
+		"food": "comino",
+		"measure": "cucharada",
+		"fprice": 0,
+		"iprice": 5
+	},
+	{
+		"food": "consomé",
+		"measure": "lata",
+		"fprice": 0,
+		"iprice": 20
+	},
+	{
+		"food": "consomé de lata",
+		"measure": "taza",
+		"fprice": 0,
+		"iprice": 20
+	},
+	{
+		"food": "costillar de res",
+		"measure": "libra",
+		"fprice": 0,
+		"iprice": 100
+	},
+	{
+		"food": "crema agria",
+		"measure": "taza",
+		"fprice": 0,
+		"iprice": 300
+	},
+	{
+		"food": "crema de leche",
+		"measure": "taza",
+		"fprice": 0,
+		"iprice": 300
+	},
+	{
+		"food": "cremor",
+		"measure": "cucharada",
+		"fprice": 0,
+		"iprice": 5
+	},
+	{
+		"food": "cuajo",
+		"measure": "pastilla",
+		"fprice": 0,
+		"iprice": 3
+	},
+	{
+		"food": "curri",
+		"measure": "cucharada",
+		"fprice": 0,
+		"iprice": 3
+	},
+	{
+		"food": "cáscara de limón",
+		"measure": "pedazo",
+		"fprice": 0,
+		"iprice": 1
+	},
+	{
+		"food": "espinacas",
+		"measure": "paquete",
+		"fprice": 0,
+		"iprice": 225
+	},
+	{
+		"food": "espinacas",
+		"measure": "taza",
+		"fprice": 0,
+		"iprice": 5
+	},
+	{
+		"food": "espinacas",
+		"measure": "unidad",
+		"fprice": 0,
+		"iprice": 20
+	},
+	{
+		"food": "espárragos",
+		"measure": "lata",
+		"fprice": -1,
+		"iprice": 300
+	},
+	{
+		"food": "espárragos",
+		"measure": "paquete",
+		"fprice": -1,
+		"iprice": 300
+	},
+	{
+		"food": "espárragos",
+		"measure": "taza",
+		"fprice": -1,
+		"iprice": 300
+	},
+	{
+		"food": "filetes de anchoas",
+		"measure": "unidad",
+		"fprice": 0,
+		"iprice": 90
+	},
+	{
+		"food": "foie gras",
+		"measure": "lata",
+		"fprice": 0,
+		"iprice": 250
+	},
+	{
+		"food": "frijoles negros",
+		"measure": "libra",
+		"fprice": 0,
+		"iprice": 70
+	},
+	{
+		"food": "frijolitos chinos",
+		"measure": "libra",
+		"fprice": 0,
+		"iprice": 30
+	},
+	{
+		"food": "frutabomba",
+		"measure": "taza",
+		"fprice": 0,
+		"iprice": 5
+	},
+	{
+		"food": "galleta",
+		"measure": "cucharada",
+		"fprice": 0,
+		"iprice": 2
+	},
+	{
+		"food": "galleta",
+		"measure": "taza",
+		"fprice": 0,
+		"iprice": 30
+	},
+	{
+		"food": "gelatina",
+		"measure": "cucharada",
+		"fprice": 0,
+		"iprice": 10
+	},
+	{
+		"food": "grasa",
+		"measure": "cucharada",
+		"fprice": 0,
+		"iprice": 2
+	},
+	{
+		"food": "grasa",
+		"measure": "taza",
+		"fprice": 0,
+		"iprice": 30
+	},
+	{
+		"food": "guayaba",
+		"measure": "libra",
+		"fprice": 0,
+		"iprice": 25
+	},
+	{
+		"food": "guinda",
+		"measure": "taza",
+		"fprice": -1,
+		"iprice": 80
+	},
+	{
+		"food": "guinda",
+		"measure": "unidad",
+		"fprice": -1,
+		"iprice": 2
+	},
+	{
+		"food": "guineas",
+		"measure": "unidad",
+		"fprice": 0,
+		"iprice": 800
+	},
+	{
+		"food": "habas limas tiernas",
+		"measure": "libra",
+		"fprice": -1,
+		"iprice": 100
+	},
+	{
+		"food": "habichuelas",
+		"measure": "libra",
+		"fprice": 0,
+		"iprice": 20
+	},
+	{
+		"food": "habichuelas",
+		"measure": "taza",
+		"fprice": 0,
+		"iprice": 10
+	},
+	{
+		"food": "harina",
+		"measure": "cucharada",
+		"fprice": 0,
+		"iprice": 2
+	},
+	{
+		"food": "harina de maíz",
+		"measure": "libra",
+		"fprice": 0,
+		"iprice": 40
+	},
+	{
+		"food": "harina de maíz",
+		"measure": "paquete",
+		"fprice": 0,
+		"iprice": 40
+	},
+	{
+		"food": "harina de maíz",
+		"measure": "taza",
+		"fprice": 0,
+		"iprice": 20
+	},
+	{
+		"food": "harina de trigo",
+		"measure": "cucharada",
+		"fprice": 0,
+		"iprice": 1.5
+	},
+	{
+		"food": "harina de trigo",
+		"measure": "taza",
+		"fprice": 0,
+		"iprice": 20
+	},
+	{
+		"food": "huesos de res",
+		"measure": "libra",
+		"fprice": 0,
+		"iprice": 25
+	},
+	{
+		"food": "huesos del costillar del cerdo",
+		"measure": "libra",
+		"fprice": 0,
+		"iprice": 150
+	},
+	{
+		"food": "huevo",
+		"measure": "taza",
+		"fprice": 0,
+		"iprice": 60
+	},
+	{
+		"food": "huevo",
+		"measure": "unidad",
+		"fprice": 0,
+		"iprice": 10
+	},
+	{
+		"food": "hígado de res",
+		"measure": "libra",
+		"fprice": 0,
+		"iprice": 50
+	},
+	{
+		"food": "hígado de pato",
+		"measure": "unidad",
+		"fprice": 0,
+		"iprice": 40
+	},
+	{
+		"food": "hígado de pavo",
+		"measure": "unidad",
+		"fprice": 0,
+		"iprice": 60
+	},
+	{
+		"food": "hígado de pollo",
+		"measure": "libra",
+		"fprice": 0,
+		"iprice": 57
+	},
+	{
+		"food": "hígado de pollo",
+		"measure": "unidad",
+		"fprice": 0,
+		"iprice": 10
+	},
+	{
+		"food": "jamonada",
+		"measure": "libra",
+		"fprice": 0,
+		"iprice": 50
+	},
+	{
+		"food": "jamón",
+		"measure": "lasca",
+		"fprice": 0,
+		"iprice": 10
+	},
+	{
+		"food": "jamón",
+		"measure": "libra",
+		"fprice": 0,
+		"iprice": 80
+	},
+	{
+		"food": "jamón",
+		"measure": "taza",
+		"fprice": 0,
+		"iprice": 60
+	},
+	{
+		"food": "jugo de naranja",
+		"measure": "taza",
+		"fprice": 12,
+		"iprice": 0
+	},
+	{
+		"food": "jugo de piña",
+		"measure": "taza",
+		"fprice": 0,
+		"iprice": 30
+	},
+	{
+		"food": "jugo de tomate",
+		"measure": "taza",
+		"fprice": 0,
+		"iprice": 15
+	},
+	{
+		"food": "kétchup",
+		"measure": "cucharada",
+		"fprice": 0,
+		"iprice": 11
+	},
+	{
+		"food": "kétchup",
+		"measure": "taza",
+		"fprice": 0,
+		"iprice": 225
+	},
+	{
+		"food": "kétchup",
+		"measure": "unidad",
+		"fprice": 0,
+		"iprice": 225
+	},
+	{
+		"food": "langosta",
+		"measure": "lata",
+		"fprice": 0,
+		"iprice": 330
+	},
+	{
+		"food": "langosta",
+		"measure": "libra",
+		"fprice": 0,
+		"iprice": 330
+	},
+	{
+		"food": "langosta",
+		"measure": "taza",
+		"fprice": 0,
+		"iprice": 75
+	},
+	{
+		"food": "langosta",
+		"measure": "unidad",
+		"fprice": 0,
+		"iprice": 125
+	},
+	{
+		"food": "laurel",
+		"measure": "cucharada",
+		"fprice": 0,
+		"iprice": 5
+	},
+	{
+		"food": "laurel",
+		"measure": "hoja",
+		"fprice": 0,
+		"iprice": 2
+	},
+	{
+		"food": "leche",
+		"measure": "cucharada",
+		"fprice": 0,
+		"iprice": 1
+	},
+	{
+		"food": "leche",
+		"measure": "taza",
+		"fprice": 0,
+		"iprice": 10
+	},
+	{
+		"food": "leche condensada",
+		"measure": "lata",
+		"fprice": 0,
+		"iprice": 250
+	},
+	{
+		"food": "leche condensada",
+		"measure": "taza",
+		"fprice": 0,
+		"iprice": 220
+	},
+	{
+		"food": "leche cortada",
+		"measure": "taza",
+		"fprice": 0,
+		"iprice": 10
+	},
+	{
+		"food": "leche de coco",
+		"measure": "taza",
+		"fprice": 0,
+		"iprice": 20
+	},
+	{
+		"food": "leche en polvo",
+		"measure": "cucharada",
+		"fprice": 0,
+		"iprice": 6
+	},
+	{
+		"food": "leche evaporada",
+		"measure": "lata",
+		"fprice": 0,
+		"iprice": 150
+	},
+	{
+		"food": "leche evaporada",
+		"measure": "taza",
+		"fprice": 0,
+		"iprice": 110
+	},
+	{
+		"food": "lechuga",
+		"measure": "unidad",
+		"fprice": 0,
+		"iprice": 20
+	},
+	{
+		"food": "lentejas",
+		"measure": "libra",
+		"fprice": 0,
+		"iprice": 80
+	},
+	{
+		"food": "limón",
+		"measure": "cucharada",
+		"fprice": 2,
+		"iprice": 0
+	},
+	{
+		"food": "limón",
+		"measure": "gota",
+		"fprice": 0,
+		"iprice": 0.25
+	},
+	{
+		"food": "limón",
+		"measure": "unidad",
+		"fprice": 5,
+		"iprice": 0
+	},
+	{
+		"food": "maicena",
+		"measure": "cucharada",
+		"fprice": 0,
+		"iprice": 5
+	},
+	{
+		"food": "maicena",
+		"measure": "taza",
+		"fprice": 0,
+		"iprice": 86
+	},
+	{
+		"food": "malanga",
+		"measure": "libra",
+		"fprice": 8,
+		"iprice": 0
+	},
+	{
+		"food": "mamey",
+		"measure": "taza",
+		"fprice": 20,
+		"iprice": 50
+	},
+	{
+		"food": "manteca",
+		"measure": "cucharada",
+		"fprice": 0,
+		"iprice": 2
+	},
+	{
+		"food": "manteca",
+		"measure": "taza",
+		"fprice": 0,
+		"iprice": 30
+	},
+	{
+		"food": "mantequilla",
+		"measure": "cucharada",
+		"fprice": 0,
+		"iprice": 20
+	},
+	{
+		"food": "mantequilla",
+		"measure": "libra",
+		"fprice": 0,
+		"iprice": 700
+	},
+	{
+		"food": "mantequilla",
+		"measure": "taza",
+		"fprice": 0,
+		"iprice": 400
+	},
+	{
+		"food": "manzana",
+		"measure": "unidad",
+		"fprice": 0,
+		"iprice": 40
+	},
+	{
+		"food": "maní",
+		"measure": "taza",
+		"fprice": 12,
+		"iprice": 0
+	},
+	{
+		"food": "marañones",
+		"measure": "unidad",
+		"fprice": 0,
+		"iprice": 20
+	},
+	{
+		"food": "mayonesa",
+		"measure": "cucharada",
+		"fprice": 0,
+		"iprice": 8
+	},
+	{
+		"food": "mayonesa",
+		"measure": "pomo",
+		"fprice": 0,
+		"iprice": 125
+	},
+	{
+		"food": "mayonesa",
+		"measure": "taza",
+		"fprice": 0,
+		"iprice": 125
+	},
+	{
+		"food": "maíz",
+		"measure": "libra",
+		"fprice": 0,
+		"iprice": 20
+	},
+	{
+		"food": "maíz",
+		"measure": "mazorca",
+		"fprice": 0,
+		"iprice": 5
+	},
+	{
+		"food": "maíz",
+		"measure": "taza",
+		"fprice": 0,
+		"iprice": 15
+	},
+	{
+		"food": "melado de caña",
+		"measure": "taza",
+		"fprice": 0,
+		"iprice": 10
+	},
+	{
+		"food": "melocotones",
+		"measure": "lata",
+		"fprice": 0,
+		"iprice": 400
+	},
+	{
+		"food": "merluzas",
+		"measure": "unidad",
+		"fprice": 0,
+		"iprice": 100
+	},
+	{
+		"food": "miel de abejas",
+		"measure": "cucharada",
+		"fprice": 0,
+		"iprice": 3
+	},
+	{
+		"food": "mortadela",
+		"measure": "libra",
+		"fprice": 0,
+		"iprice": 20
+	},
+	{
+		"food": "mostaza",
+		"measure": "cucharada",
+		"fprice": 0,
+		"iprice": 6
+	},
+	{
+		"food": "naranja",
+		"measure": "unidad",
+		"fprice": 4,
+		"iprice": 0
+	},
+	{
+		"food": "naranja agria",
+		"measure": "unidad",
+		"fprice": 3,
+		"iprice": 0
+	},
+	{
+		"food": "nuez",
+		"measure": "cucharada",
+		"fprice": -1,
+		"iprice": 5
+	},
+	{
+		"food": "nuez",
+		"measure": "taza",
+		"fprice": -1,
+		"iprice": 80
+	},
+	{
+		"food": "nuez moscada",
+		"measure": "cucharada",
+		"fprice": 0,
+		"iprice": 6
+	},
+	{
+		"food": "orégano",
+		"measure": "cucharada",
+		"fprice": 0,
+		"iprice": 2
+	},
+	{
+		"food": "pan",
+		"measure": "cucharada",
+		"fprice": 0,
+		"iprice": 1
+	},
+	{
+		"food": "pan",
+		"measure": "libra",
+		"fprice": 0,
+		"iprice": 40
+	},
+	{
+		"food": "pan",
+		"measure": "rebanada",
+		"fprice": 0,
+		"iprice": 3
+	},
+	{
+		"food": "pan",
+		"measure": "taza",
+		"fprice": 0,
+		"iprice": 15
+	},
+	{
+		"food": "pan de leche",
+		"measure": "libra",
+		"fprice": 0,
+		"iprice": 60
+	},
+	{
+		"food": "pan de leche",
+		"measure": "rebanada",
+		"fprice": 0,
+		"iprice": 5
+	},
+	{
+		"food": "pan de leche",
+		"measure": "taza",
+		"fprice": 0,
+		"iprice": 25
+	},
+	{
+		"food": "pan viejo",
+		"measure": "libra",
+		"fprice": 0,
+		"iprice": 40
+	},
+	{
+		"food": "panetela",
+		"measure": "unidad",
+		"fprice": 0,
+		"iprice": 200
+	},
+	{
+		"food": "papas",
+		"measure": "libra",
+		"fprice": 0,
+		"iprice": 10
+	},
+	{
+		"food": "papas",
+		"measure": "taza",
+		"fprice": 0,
+		"iprice": 15
+	},
+	{
+		"food": "papas",
+		"measure": "unidad",
+		"fprice": 0,
+		"iprice": 4
+	},
+	{
+		"food": "pasas",
+		"measure": "cucharada",
+		"fprice": -1,
+		"iprice": 3
+	},
+	{
+		"food": "pasas",
+		"measure": "taza",
+		"fprice": 0,
+		"iprice": 60
+	},
+	{
+		"food": "pasta de anchoas",
+		"measure": "cucharada",
+		"fprice": 0,
+		"iprice": 6
+	},
+	{
+		"food": "pasta de tomate",
+		"measure": "cucharada",
+		"fprice": 0,
+		"iprice": 4
+	},
+	{
+		"food": "pasta de tomate",
+		"measure": "taza",
+		"fprice": 0,
+		"iprice": 60
+	},
+	{
+		"food": "pato",
+		"measure": "libra",
+		"fprice": 0,
+		"iprice": 130
+	},
+	{
+		"food": "pavo",
+		"measure": "libra",
+		"fprice": 0,
+		"iprice": 180
+	},
+	{
+		"food": "pechuga de pollo",
+		"measure": "unidad",
+		"fprice": 0,
+		"iprice": 210
+	},
+	{
+		"food": "pepinillo",
+		"measure": "cucharada",
+		"fprice": 1,
+		"iprice": 0
+	},
+	{
+		"food": "pepinillo",
+		"measure": "unidad",
+		"fprice": 5,
+		"iprice": 0
+	},
+	{
+		"food": "pepino",
+		"measure": "taza",
+		"fprice": 0,
+		"iprice": 10
+	},
+	{
+		"food": "pepino",
+		"measure": "unidad",
+		"fprice": 0,
+		"iprice": 7
+	},
+	{
+		"food": "pera",
+		"measure": "unidad",
+		"fprice": 0,
+		"iprice": 8
+	},
+	{
+		"food": "perejil",
+		"measure": "cucharada",
+		"fprice": 0,
+		"iprice": 3
+	},
+	{
+		"food": "perejil",
+		"measure": "rama",
+		"fprice": 0,
+		"iprice": 3
+	},
+	{
+		"food": "perejil",
+		"measure": "taza",
+		"fprice": 0,
+		"iprice": 40
+	},
+	{
+		"food": "perejil",
+		"measure": "unidad",
+		"fprice": 0,
+		"iprice": 3
+	},
+	{
+		"food": "pescado",
+		"measure": "lata",
+		"fprice": 0,
+		"iprice": 200
+	},
+	{
+		"food": "pescado",
+		"measure": "libra",
+		"fprice": 0,
+		"iprice": 200
+	},
+	{
+		"food": "pescado",
+		"measure": "taza",
+		"fprice": 0,
+		"iprice": 75
+	},
+	{
+		"food": "petit pois",
+		"measure": "lata",
+		"fprice": -1,
+		"iprice": 400
+	},
+	{
+		"food": "petit pois",
+		"measure": "taza",
+		"fprice": -1,
+		"iprice": 100
+	},
+	{
+		"food": "picadillo",
+		"measure": "taza",
+		"fprice": 0,
+		"iprice": 100
+	},
+	{
+		"food": "picadillo",
+		"measure": "unidad",
+		"fprice": 0,
+		"iprice": 200
+	},
+	{
+		"food": "picadillo de carne",
+		"measure": "taza",
+		"fprice": 0,
+		"iprice": 100
+	},
+	{
+		"food": "picadillo de res",
+		"measure": "taza",
+		"fprice": 0,
+		"iprice": 200
+	},
+	{
+		"food": "pierna",
+		"measure": "libra",
+		"fprice": 0,
+		"iprice": 350
+	},
+	{
+		"food": "pimentón",
+		"measure": "cucharada",
+		"fprice": -1,
+		"iprice": 3
+	},
+	{
+		"food": "pimienta",
+		"measure": "cucharada",
+		"fprice": -1,
+		"iprice": 3
+	},
+	{
+		"food": "pimienta",
+		"measure": "pizca",
+		"fprice": -1,
+		"iprice": 3
+	},
+	{
+		"food": "pimiento",
+		"measure": "cucharada",
+		"fprice": 0,
+		"iprice": 1
+	},
+	{
+		"food": "pimiento",
+		"measure": "lata",
+		"fprice": 0,
+		"iprice": 30
+	},
+	{
+		"food": "pimiento",
+		"measure": "taza",
+		"fprice": 0,
+		"iprice": 8
+	},
+	{
+		"food": "pimiento",
+		"measure": "unidad",
+		"fprice": 0,
+		"iprice": 4
+	},
+	{
+		"food": "piña",
+		"measure": "lata",
+		"fprice": 0,
+		"iprice": 180
+	},
+	{
+		"food": "piña",
+		"measure": "rueda",
+		"fprice": 0,
+		"iprice": 8
+	},
+	{
+		"food": "piña",
+		"measure": "taza",
+		"fprice": 0,
+		"iprice": 30
+	},
+	{
+		"food": "piña",
+		"measure": "unidad",
+		"fprice": 0,
+		"iprice": 60
+	},
+	{
+		"food": "plátano",
+		"measure": "hoja",
+		"fprice": 0,
+		"iprice": 0.25
+	},
+	{
+		"food": "plátano",
+		"measure": "unidad",
+		"fprice": 0,
+		"iprice": 2
+	},
+	{
+		"food": "pollo",
+		"measure": "libra",
+		"fprice": 0,
+		"iprice": 172
+	},
+	{
+		"food": "pollo",
+		"measure": "taza",
+		"fprice": 0,
+		"iprice": 150
+	},
+	{
+		"food": "pollo",
+		"measure": "unidad",
+		"fprice": 0,
+		"iprice": 800
+	},
+	{
+		"food": "polvo de hornear",
+		"measure": "cucharada",
+		"fprice": 0,
+		"iprice": 4
+	},
+	{
+		"food": "puntas de espárragos",
+		"measure": "lata",
+		"fprice": -1,
+		"iprice": 400
+	},
+	{
+		"food": "puré",
+		"measure": "cucharada",
+		"fprice": 0,
+		"iprice": 2
+	},
+	{
+		"food": "puré",
+		"measure": "lata",
+		"fprice": 0,
+		"iprice": 30
+	},
+	{
+		"food": "puré",
+		"measure": "taza",
+		"fprice": 0,
+		"iprice": 15
+	},
+	{
+		"food": "queso",
+		"measure": "cucharada",
+		"fprice": 0,
+		"iprice": 5.5
+	},
+	{
+		"food": "queso",
+		"measure": "libra",
+		"fprice": 0,
+		"iprice": 180
+	},
+	{
+		"food": "queso",
+		"measure": "taza",
+		"fprice": 0,
+		"iprice": 90
+	},
+	{
+		"food": "queso amarillo",
+		"measure": "taza",
+		"fprice": 50,
+		"iprice": 0
+	},
+	{
+		"food": "queso azul",
+		"measure": "libra",
+		"fprice": 0,
+		"iprice": 1000
+	},
+	{
+		"food": "queso crema",
+		"measure": "onza",
+		"fprice": 0,
+		"iprice": 30
+	},
+	{
+		"food": "queso gruyer",
+		"measure": "lasca",
+		"fprice": -1,
+		"iprice": 20
+	},
+	{
+		"food": "queso gruyer",
+		"measure": "libra",
+		"fprice": -1,
+		"iprice": 300
+	},
+	{
+		"food": "queso parmesano",
+		"measure": "taza",
+		"fprice": 0,
+		"iprice": 375
+	},
+	{
+		"food": "queso patagrás",
+		"measure": "cucharada",
+		"fprice": -1,
+		"iprice": 5
+	},
+	{
+		"food": "queso patagrás",
+		"measure": "libra",
+		"fprice": -1,
+		"iprice": 300
+	},
+	{
+		"food": "queso patagrás",
+		"measure": "taza",
+		"fprice": -1,
+		"iprice": 120
+	},
+	{
+		"food": "queso roquefort",
+		"measure": "libra",
+		"fprice": -1,
+		"iprice": 300
+	},
+	{
+		"food": "quimbombó",
+		"measure": "libra",
+		"fprice": 0,
+		"iprice": 20
+	},
+	{
+		"food": "rabo de res",
+		"measure": "unidad",
+		"fprice": 0,
+		"iprice": 30
+	},
+	{
+		"food": "ralladura de limón",
+		"measure": "cucharada",
+		"fprice": 0.25,
+		"iprice": 0
+	},
+	{
+		"food": "ralladura de naranja",
+		"measure": "cucharada",
+		"fprice": 0.25,
+		"iprice": 0
+	},
+	{
+		"food": "raíz de jengibre",
+		"measure": "cucharada",
+		"fprice": 0,
+		"iprice": 1
+	},
+	{
+		"food": "remolacha",
+		"measure": "libra",
+		"fprice": 6,
+		"iprice": 0
+	},
+	{
+		"food": "remolacha",
+		"measure": "taza",
+		"fprice": 3,
+		"iprice": 0
+	},
+	{
+		"food": "repollo",
+		"measure": "unidad",
+		"fprice": 0,
+		"iprice": 20
+	},
+	{
+		"food": "romero",
+		"measure": "cucharada",
+		"fprice": 1,
+		"iprice": 1
+	},
+	{
+		"food": "sal",
+		"measure": "cucharada",
+		"fprice": 0,
+		"iprice": 1
+	},
+	{
+		"food": "sal",
+		"measure": "unidad",
+		"fprice": 0,
+		"iprice": 1
+	},
+	{
+		"food": "sal de ajo",
+		"measure": "cucharada",
+		"fprice": 0,
+		"iprice": 5
+	},
+	{
+		"food": "sal de cebolla",
+		"measure": "cucharada",
+		"fprice": 0,
+		"iprice": 5
+	},
+	{
+		"food": "salchichas",
+		"measure": "lata",
+		"fprice": 0,
+		"iprice": 100
+	},
+	{
+		"food": "salmón",
+		"measure": "lata",
+		"fprice": -1,
+		"iprice": 500
+	},
+	{
+		"food": "salsa bechamel",
+		"measure": "taza",
+		"fprice": 0,
+		"iprice": 100
+	},
+	{
+		"food": "salsa china",
+		"measure": "cucharada",
+		"fprice": 0,
+		"iprice": 10
+	},
+	{
+		"food": "salsa de soya",
+		"measure": "cucharada",
+		"fprice": 0,
+		"iprice": 20
+	},
+	{
+		"food": "salsa inglesa",
+		"measure": "cucharada",
+		"fprice": 0,
+		"iprice": 30
+	},
+	{
+		"food": "sazonador",
+		"measure": "cucharada",
+		"fprice": 0,
+		"iprice": 2
+	},
+	{
+		"food": "sazonador de mariscos",
+		"measure": "cucharada",
+		"fprice": 0,
+		"iprice": 5
+	},
+	{
+		"food": "sofrito",
+		"measure": "cucharada",
+		"fprice": 0,
+		"iprice": 3
+	},
+	{
+		"food": "sopa de champiñones",
+		"measure": "lata",
+		"fprice": 0,
+		"iprice": 200
+	},
+	{
+		"food": "sopa de crema de apio",
+		"measure": "lata",
+		"fprice": 0,
+		"iprice": 100
+	},
+	{
+		"food": "spam",
+		"measure": "lata",
+		"fprice": 0,
+		"iprice": 250
+	},
+	{
+		"food": "tarragón",
+		"measure": "cucharada",
+		"fprice": 1,
+		"iprice": 1
+	},
+	{
+		"food": "tomate",
+		"measure": "libra",
+		"fprice": 0,
+		"iprice": 25
+	},
+	{
+		"food": "tomate",
+		"measure": "taza",
+		"fprice": 0,
+		"iprice": 12
+	},
+	{
+		"food": "tomate",
+		"measure": "unidad",
+		"fprice": 0,
+		"iprice": 5
+	},
+	{
+		"food": "tomillo",
+		"measure": "cucharada",
+		"fprice": -1,
+		"iprice": 2
+	},
+	{
+		"food": "tomillo",
+		"measure": "unidad",
+		"fprice": -1,
+		"iprice": 2
+	},
+	{
+		"food": "vainilla",
+		"measure": "cucharada",
+		"fprice": 0,
+		"iprice": 8
+	},
+	{
+		"food": "vegetales",
+		"measure": "lata",
+		"fprice": 0,
+		"iprice": 50
+	},
+	{
+		"food": "vegetales",
+		"measure": "taza",
+		"fprice": 0,
+		"iprice": 25
+	},
+	{
+		"food": "vinagre",
+		"measure": "cucharada",
+		"fprice": 0,
+		"iprice": 2.5
+	},
+	{
+		"food": "vinagre",
+		"measure": "taza",
+		"fprice": 0,
+		"iprice": 46
+	},
+	{
+		"food": "vinagre",
+		"measure": "unidad",
+		"fprice": 0,
+		"iprice": 0
+	},
+	{
+		"food": "vino blanco",
+		"measure": "cucharada",
+		"fprice": 0,
+		"iprice": 8
+	},
+	{
+		"food": "vino blanco",
+		"measure": "taza",
+		"fprice": 0,
+		"iprice": 160
+	},
+	{
+		"food": "vino seco",
+		"measure": "cucharada",
+		"fprice": 0,
+		"iprice": 2
+	},
+	{
+		"food": "vino seco",
+		"measure": "taza",
+		"fprice": 0,
+		"iprice": 50
+	},
+	{
+		"food": "vino tinto",
+		"measure": "taza",
+		"fprice": 0,
+		"iprice": 160
+	},
+	{
+		"food": "yemas",
+		"measure": "taza",
+		"fprice": 0,
+		"iprice": 80
+	},
+	{
+		"food": "yemas",
+		"measure": "unidad",
+		"fprice": 0,
+		"iprice": 10
+	},
+	{
+		"food": "yogur",
+		"measure": "cucharada",
+		"fprice": 0,
+		"iprice": 1
+	},
+	{
+		"food": "yuca",
+		"measure": "libra",
+		"fprice": 0,
+		"iprice": 10
+	},
+	{
+		"food": "zanahoria",
+		"measure": "libra",
+		"fprice": 35,
+		"iprice": 35
+	},
+	{
+		"food": "zanahoria",
+		"measure": "taza",
+		"fprice": 0,
+		"iprice": 8
+	},
+	{
+		"food": "zanahoria",
+		"measure": "unidad",
+		"fprice": 5,
+		"iprice": 5
+	},
+	{
+		"food": "zumo de limón",
+		"measure": "cucharada",
+		"fprice": 2,
+		"iprice": 0
+	},
+	{
+		"food": "zumo de limón",
+		"measure": "gota",
+		"fprice": 0,
+		"iprice": 0.25
+	},
+	{
+		"food": "zumo de limón",
+		"measure": "taza",
+		"fprice": 0,
+		"iprice": 80
+	},
+	{
+		"food": "zumo de naranja agria",
+		"measure": "cucharada",
+		"fprice": 3,
+		"iprice": 0
+	},
+	{
+		"food": "ñame",
+		"measure": "libra",
+		"fprice": 0,
+		"iprice": 10
+	},
+	{
+		"food": "ñame",
+		"measure": "rueda",
+		"fprice": -1,
+		"iprice": 1
+	},
+	{
+		"food": "agua",
+		"measure": "taza",
+		"fprice": 0,
+		"iprice": 0
+	},
+	{
+		"food": "agua",
+		"measure": "galón",
+		"fprice": 0,
+		"iprice": 0
+	},
+	{
+		"food": "agua",
+		"measure": "cucharada",
+		"fprice": 0,
+		"iprice": 0
+	},
+	{
+		"food": "agua",
+		"measure": "unidad",
+		"fprice": 0,
+		"iprice": 0
+	},
+	{
+		"food": "agua",
+		"measure": "lata",
+		"fprice": 0,
+		"iprice": 0
+	}
+]
