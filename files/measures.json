@@ -1,0 +1,23 @@
+{
+    "cucharada": "cucharad((a)|(ita))s?",
+    "diente": "dientes?",
+    "galón": "gal((ón)|(ones))",
+    "gota": "gotas?",
+    "hoja": "hojas?",
+    "lasca": "lascas?",
+    "lata": "lat(a|(ica))s?",
+    "libra": "libras?",
+    "litro": "litros?",
+    "mazorca": "mazorcas?",
+    "onza": "onzas?",
+    "paquete": "paquetes?",
+    "pastilla": "pastillas?",
+    "pedazo": "peda((zo)|(cito))s?",
+    "pizca": "pizcas?",
+    "pomo": "pom(o|(ito))s?",
+    "rama": "ram(a|(ita))s?",
+    "rebanada": "rebanadas?",
+    "rueda": "rued(a|(ita))s?",
+    "tallo": "tallos?",
+    "taza": "tazas?"
+}
